@@ -1,0 +1,45 @@
+version: '3.4'
+
+services:
+  bitchutescrapper:
+    image: bitchutescrapper
+    build:
+      context: .
+      dockerfile: ./Dockerfile
+    container_name: bitchutescrapper
+    environment:
+      MONGODB_DATABASE: bitchutescrapperdb
+      MONGODB_USERNAME: ytsemfake
+      MONGODB_PASSWORD: ytsemfake
+      MONGODB_HOSTNAME: mongodb
+    volumes:
+      - ./src/data:/src/data
+    depends_on:
+       - mongodb
+    networks:
+      - mongo-compose-network
+
+  mongodb:
+    image: mongo
+    container_name: mongodb
+    restart: unless-stopped
+    command: mongod --auth
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: root
+      MONGO_INITDB_ROOT_PASSWORD: ytsemfake
+      MONGO_INITDB_DATABASE: bitchutescrapperdb
+      MONGODB_DATA_DIR: /data/db
+      MONDODB_LOG_DIR: /tmp/log/mongo
+    ports:
+      - "27017:27017"
+    volumes:
+      - ./src/data/db:/data/db
+    networks:
+      - mongo-compose-network
+
+networks: 
+    mongo-compose-network:
+      driver: bridge
+
+ 
+ 

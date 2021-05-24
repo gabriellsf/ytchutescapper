@@ -1,0 +1,1435 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>War Room</title>
+<meta name="viewport" content="initial-scale=1.0, width=device-width" />
+<link id="canonical" rel="canonical" href="https://www.bitchute.com/channel/9c7qJvwx7YQ1/" />
+
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/js-cookie/2.2.0/js.cookie.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/css-element-queries/1.2.3/ResizeSensor.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/css-element-queries/1.2.3/ElementQueries.min.js"></script>
+<script type="text/javascript" src="/static/v130/js/theme.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.27.0/moment.min.js" integrity="sha512-rmZcZsyhe0/MAjquhTgiUcb4d9knaFc7b5xAfju483gbEXTkeJRUMIPk6s3ySZMYUHEcjKbjLjyddGWMrNEvZg==" crossorigin="anonymous"></script>
+<script type="text/javascript" src="https://commentfreely.bitchute.com/static/comments/js/comments.js"></script>
+<script type="text/javascript" src="https://commentfreely.bitchute.com/static/comments/js/commentactions.js"></script>
+
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-slider/10.0.0/css/bootstrap-slider.css" />
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css" />
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/2.1.3/toastr.min.css" />
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/plyr/3.5.6/plyr.css">
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/rickshaw/1.6.3/rickshaw.min.css">
+<link rel="stylesheet" type="text/css" href="https://commentfreely.bitchute.com/static/comments/css/comments.css" />
+<link rel="stylesheet" type="text/css" href="/static/v130/css/awards.css" />
+<link rel="stylesheet" type="text/css" href="/static/v130/css/common.css" />
+<link rel="stylesheet" type="text/css" href="/static/v130/css/help-us-grow.css">
+<link rel="stylesheet" type="text/css" href="/static/v130/css/membership.css">
+<link rel="stylesheet" type="text/css" href="/static/v130/css/moderation.css">
+<link rel="stylesheet" type="text/css" href="/static/v130/css/monetization.css">
+<link rel="stylesheet" type="text/css" href="/static/v130/css/notification.css">
+<link rel="stylesheet" type="text/css" href="/static/v130/css/playlist.css">
+<link rel="stylesheet" type="text/css" href="/static/v130/css/search.css">
+<link rel="stylesheet" type="text/css" href="/static/v130/css/video.css">
+<link id="css-theme" rel="stylesheet" type="text/css" href="/static/v130/css/theme-default-day.css" />
+<script type="text/javascript">
+    themeInit('/static/v130/','default');
+    if(Cookies.getJSON('preferences') && Cookies.getJSON('preferences').theme=='night') {
+        $('#css-theme').attr('href','/static/v130/css/theme-default-night.css');
+    } else {
+        $('#css-theme').attr('href','/static/v130/css/theme-default-day.css');
+    }
+</script>
+<link rel="apple-touch-icon" sizes="57x57" href="/static/v130/images/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/static/v130/images/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/static/v130/images/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/static/v130/images/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/static/v130/images/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/static/v130/images/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/static/v130/images/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/static/v130/images/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/static/v130/images/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192" href="/static/v130/images/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/static/v130/images/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/static/v130/images/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/static/v130/images/favicon-16x16.png">
+<link rel="manifest" href="/static/v130/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/static/v130/images/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+
+<meta name="description" content="The War Room is the latest extension of Infowars live programming. Hosted by Owen Shroyer and featuring Roger Stone as well as many other powerful guests.  The War Room Show is broadcasted out of the Infowars World Headquarters in Austin, Texas, fro…" />
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:url" content="https://static-3.bitchute.com/live/channel_images/9c7qJvwx7YQ1/KAuARPhFMqFKNDkjeesxrVJS_medium.jpg">
+<meta name="twitter:title" content="War Room">
+<meta name="twitter:description" content="The War Room is the latest extension of Infowars live programming. Hosted by Owen Shroyer and featuring Roger Stone as well as many other powerful guests.  The War Room Show is broadcasted out of the Infowars World Headquarters in Austin, Texas, fro…">
+<meta name="twitter:site" content="@bitchute">
+<meta name="twitter:domain" content="bitchute.com">
+<meta name="twitter:image:src" content="https://static-3.bitchute.com/live/channel_images/9c7qJvwx7YQ1/KAuARPhFMqFKNDkjeesxrVJS_medium.jpg">
+<meta name="twitter:image:width" content="">
+<meta name="twitter:image:height" content="">
+<meta name="twitter:creator" content="@bitchute">
+<meta property="og:site_name" content="BitChute" />
+<meta property="og:url" content="https://www.bitchute.com/channel/9c7qJvwx7YQ1/" />
+<meta property="og:title" content="War Room" />
+<meta property="og:description" content="The War Room is the latest extension of Infowars live programming. Hosted by Owen Shroyer and featuring Roger Stone as well as many other powerful guests.  The War Room Show is broadcasted out of the Infowars World Headquarters in Austin, Texas, fro…" />
+<meta property="og:image" content="https://static-3.bitchute.com/live/channel_images/9c7qJvwx7YQ1/KAuARPhFMqFKNDkjeesxrVJS_medium.jpg" />
+<meta property="og:image:secure_url" content="https://static-3.bitchute.com/live/channel_images/9c7qJvwx7YQ1/KAuARPhFMqFKNDkjeesxrVJS_medium.jpg" />
+<meta property="og:image:type" content="image/jpeg" />
+<meta property="og:image:width" content="" />
+<meta property="og:image:height" content="" />
+<meta property="og:type" content="video.other" />
+<link id="oembed" rel="alternate" type="application/json+oembed" href="">
+
+
+
+<!--[if lt IE 9]>
+<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+<script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+<![endif]-->
+<script async src='/cdn-cgi/bm/cv/669835187/api.js'></script></head>
+<body>
+
+<div id="auth_modal" class="modal fade" role="dialog">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-hidden="true"><i class="fas fa-times fa-fw"></i></button>
+<a href="/"><img class="modal-logo logo-full" src="/static/v130/images/logo-full-day.png" alt="BitChute"></a>
+</div>
+<div class="modal-body">
+<ul class="nav nav-tabs">
+<li class="active" id="auth_login_tab">
+ <a data-toggle="tab" href="#auth_login">Login</a>
+</li>
+<li id="auth_reset_tab">
+<a data-toggle="tab" href="#auth_reset">Password Reset</a>
+</li>
+</ul>
+<div class="tab-content">
+<div class="tab-pane active" id="auth_login" data-target="/accounts/login/">
+<form method="post" id="auth_login_form">
+<input type="hidden" name="csrfmiddlewaretoken" value="LYVGqwBKPKxjKAftr53PPUtsKrqeTbdEDJb7nWCWmRJ0Cm8DSCJIhEsJkxy3lUzd">
+<div class="alert alert-danger hidden" id="auth_login_error"></div>
+<div class="form-group">
+<label>Username or Email Address</label>
+<div class="alert alert-danger hidden" id="auth_login_error_username"></div>
+<input type="text" name="username" class="form-control" autocomplete="username" maxlength="150" required id="id_username">
+</div>
+<div class="form-group">
+<label>Password</label>
+<div class="alert alert-danger hidden" id="auth_login_error_password"></div>
+<input type="password" name="password" class="form-control" autocomplete="off" maxlength="50" required id="id_password">
+</div>
+<div class="form-group hidden" id="auth_login_one_time_code">
+<label>One Time Code</label>
+<div class="alert alert-danger hidden" id="auth_login_error_one_time_code"></div>
+<input type="Search" name="one_time_code" class="form-control" autocomplete="one-time-code" maxlength="6" id="id_one_time_code">
+<p class="help">To complete the login process, please enter the one time code that was sent to your email address.</p>
+</div>
+</form>
+<p>Don't have an account? Create one <a href="/accounts/register/">here</a>.</p>
+</div>
+<div class="tab-pane" id="auth_reset" data-target="/accounts/reset/">
+<form method="post" id="auth_reset_form">
+<input type="hidden" name="csrfmiddlewaretoken" value="LYVGqwBKPKxjKAftr53PPUtsKrqeTbdEDJb7nWCWmRJ0Cm8DSCJIhEsJkxy3lUzd">
+<div class="alert alert-danger hidden" id="auth_reset_error"></div>
+<label>Email Address</label>
+<div class="alert alert-danger hidden" id="auth_reset_error_email"></div>
+<input type="email" name="email" class="form-control" autocomplete="email" placeholder="email@example.com" maxlength="254" required id="id_email">
+<p class="help">Please provide the email address associated with your account to receive the password reset instructions.</p>
+</form>
+</div>
+</div>
+</div>
+<div class="modal-footer">
+<button type="button" class="btn btn-danger" id="auth_submit"><i class="fas fa-check fa-fw"></i> Submit</button>
+<button type="button" class="btn btn-default" data-dismiss="modal"><i class="fas fa-times fa-fw"></i> Cancel</button>
+</div>
+</div>
+</div>
+</div>
+
+
+<div id="error_modal" class="modal fade" role="dialog">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-hidden="true"><i class="fas fa-times fa-fw"></i></button>
+<a href="/"><img class="modal-logo logo-full" src="/static/v130/images/logo-full-day.png" alt="BitChute"></a>
+</div>
+<div class="modal-body text-center">
+<p>An error has occurred whilst processing your request!</p>
+<img class="ninja img-responsive hidden-xs hidden-sm" src="/static/v130/images/ninja_stance.png" alt="Ninja">
+<p>If the issue persists, then please contact us at <a href="/cdn-cgi/l/email-protection#c5b6b0b5b5aab7b185a7acb1a6adb0b1a0eba6aaa8"><span class="__cf_email__" data-cfemail="20535550504f52546042495443485554450e434f4d">[email&#160;protected]</span></a>.</p>
+</div>
+<div class="modal-footer">
+<button type="button" class="btn btn-default" data-dismiss="modal"><i class="fas fa-times fa-fw"></i> Close</button>
+</div>
+</div>
+</div>
+</div>
+
+
+<div id="alert-signup" class="text-center hidden">
+<span class="close" onclick="hideRegistrationAlert();regcookie.dismiss();" aria-label="Close"><i class="fas fa-times fa-fw"></i></span>
+<p>For a better BitChute user experience,<br><a onclick="authShowModal('#');">Login</a> or <a href="/accounts/register/">Register</a> now!</p>
+</div>
+
+
+<nav id="nav-menu" class="transparent">
+<div id="nav-top-menu">
+<div class="menu-left-container">
+<div class="logo">
+<a href="/" class="spa">
+<img class="logo-full hidden-xs" src="/static/v130/images/logo-full-day.png" alt="BitChute">
+<img class="logo-icon hidden-sm hidden-md hidden-lg hidden-xl" src="/static/v130/images/logo-icon-day.png" alt="BitChute">
+</a>
+</div>
+<div class="search-box hidden-xs">
+<form method="get" action="/search/">
+<input type="text" name="query" maxlength="255" class="form-control search-text" placeholder="Search&hellip;" />
+<button type="submit" class="search-icon"><i class="fas fa-search"></i></button>
+</form>
+</div>
+</div>
+<div class="menu-right-container">
+<div class="user-link help-us-grow">
+<a href="/help-us-grow/" class="spa" data-toggle="tooltip" data-placement="bottom" title="Help Us Grow"><i class="fas fa-donate fa-2x"></i></a>
+</div>
+<div id="day-theme" class="user-link hidden"><a onclick="themeDayMode();" data-toggle="tooltip" data-placement="bottom" title="Switch to Day Mode"><i class="fas fa-sun fa-2x"></i></a></div>
+<div id="night-theme" class="user-link hidden"><a onclick="themeNightMode();" data-toggle="tooltip" data-placement="bottom" title="Switch to Night Mode"><i class="fas fa-moon fa-2x"></i></a></div>
+<div class="unauth-link">
+<span><a onclick="authShowModal('#');">Login</a> <strong>/</strong> <a href="/accounts/register/">Register</a></span>
+</div>
+</div>
+</div>
+<div id="nav-side-menu">
+<a class="side-toggle" onclick="toggleSideMenu();">
+<i class="side-menu-hidden fas fa-bars fa-fw"></i>
+<i class="side-menu-visible fas fa-times fa-fw hidden"></i>
+</a>
+<div class="search-box">
+<form method="get" action="/search/">
+<input type="text" name="query" maxlength="255" class="form-control search-text" placeholder="Search&hellip;" />
+<button type="submit" class="search-icon"><i class="fas fa-search"></i></button>
+</form>
+</div>
+<div class="side-content">
+<p class="side-heading">Categories</p>
+<ul class="side-list list-unstyled">
+<li><a href="/category/animation/" class="spa"><i class="fal fa-chevron-double-right fa-xs"></i> Anime &amp; Animation</a></li>
+<li><a href="/category/arts/" class="spa"><i class="fal fa-chevron-double-right fa-xs"></i> Arts &amp; Literature</a></li>
+<li><a href="/category/vehicles/" class="spa"><i class="fal fa-chevron-double-right fa-xs"></i> Auto &amp; Vehicles</a></li>
+<li><a href="/category/beauty/" class="spa"><i class="fal fa-chevron-double-right fa-xs"></i> Beauty &amp; Fashion</a></li>
+<li><a href="/category/finance/" class="spa"><i class="fal fa-chevron-double-right fa-xs"></i> Business &amp; Finance</a></li>
+<li><a href="/category/cuisine/" class="spa"><i class="fal fa-chevron-double-right fa-xs"></i> Cuisine</a></li>
+<li><a href="/category/diy/" class="spa"><i class="fal fa-chevron-double-right fa-xs"></i> DIY &amp; Gardening</a></li>
+<li><a href="/category/education/" class="spa"><i class="fal fa-chevron-double-right fa-xs"></i> Education</a></li>
+<li><a href="/category/entertainment/" class="spa"><i class="fal fa-chevron-double-right fa-xs"></i> Entertainment</a></li>
+<li><a href="/category/gaming/" class="spa"><i class="fal fa-chevron-double-right fa-xs"></i> Gaming</a></li>
+<li><a href="/category/health/" class="spa"><i class="fal fa-chevron-double-right fa-xs"></i> Health &amp; Medical</a></li>
+<li><a href="/category/music/" class="spa"><i class="fal fa-chevron-double-right fa-xs"></i> Music</a></li>
+<li><a href="/category/news/" class="spa"><i class="fal fa-chevron-double-right fa-xs"></i> News &amp; Politics</a></li>
+<li><a href="/category/family/" class="spa"><i class="fal fa-chevron-double-right fa-xs"></i> People &amp; Family</a></li>
+<li><a href="/category/animals/" class="spa"><i class="fal fa-chevron-double-right fa-xs"></i> Pets &amp; Wildlife</a></li>
+<li><a href="/category/science/" class="spa"><i class="fal fa-chevron-double-right fa-xs"></i> Science &amp; Technology</a></li>
+<li><a href="/category/spirituality/" class="spa"><i class="fal fa-chevron-double-right fa-xs"></i> Spirituality &amp; Faith</a></li>
+<li><a href="/category/sport/" class="spa"><i class="fal fa-chevron-double-right fa-xs"></i> Sports &amp; Fitness</a></li>
+<li><a href="/category/travel/" class="spa"><i class="fal fa-chevron-double-right fa-xs"></i> Travel</a></li>
+<li><a href="/category/vlogging/" class="spa"><i class="fal fa-chevron-double-right fa-xs"></i> Vlogging</a></li>
+</ul>
+<a href="https://support.bitchute.com/policy/" target="_blank" rel="noopener noreferrer"><p class="side-heading">Policies</p></a>
+<ul class="side-list list-unstyled">
+<li><a href="https://support.bitchute.com/policy/guidelines/" target="_blank" rel="noopener noreferrer"><i class="fal fa-chevron-double-right fa-xs"></i> Community Guidelines</a></li>
+<li><a href="https://support.bitchute.com/policy/terms/" target="_blank" rel="noopener noreferrer"><i class="fal fa-chevron-double-right fa-xs"></i> Terms & Conditions</a></li>
+<li><a href="https://support.bitchute.com/policy/privacy/" target="_blank" rel="noopener noreferrer"><i class="fal fa-chevron-double-right fa-xs"></i> Privacy Policy</a></li>
+<li><a href="https://support.bitchute.com/policy/cookie/" target="_blank" rel="noopener noreferrer"><i class="fal fa-chevron-double-right fa-xs"></i> Cookie Policy</a></li>
+<li><a href="https://support.bitchute.com/policy/contact/" target="_blank" rel="noopener noreferrer"><i class="fal fa-chevron-double-right fa-xs"></i> Contact Us</a></li>
+</ul>
+<a href="https://support.bitchute.com/" target="_blank" rel="noopener noreferrer"><p class="side-heading">Support</p></a>
+<ul class="side-list list-unstyled">
+<li><a href="https://support.bitchute.com/" target="_blank" rel="noopener noreferrer"><i class="fal fa-chevron-double-right fa-xs"></i> Knowledge Base</a></li>
+<li><a href="https://status.bitchute.com/" target="_blank" rel="noopener noreferrer"><i class="fal fa-chevron-double-right fa-xs"></i> Service Status</a></li>
+</ul>
+</div>
+<div class="copyright">&copy;&nbsp;2017-2021&nbsp;Bit&nbsp;Chute&nbsp;Limited</div>
+</div>
+</nav>
+<div id="nav-menu-buffer"></div>
+
+<div id="wrapper">
+<div id="main-content" class="transparent">
+
+<div id="confirm-modal" class="modal fade" role="dialog">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-hidden="true"><i class="fas fa-times fa-fw"></i></button>
+<a href="/"><img class="modal-logo logo-full" src="/static/v130/images/logo-full-day.png" alt="BitChute"></a>
+</div>
+<div class="modal-body">
+<p>You are about to <span id="confirm-modal-action" class="text-lowercase">action</span>:</p>
+<p><strong id="confirm-modal-detail" class="text-uppercase">Object being modified by the action</strong></p>
+<p>Do you want to proceed?</p>
+</div>
+<div class="modal-footer">
+<button type="button" class="btn btn-danger" onclick="execConfirmModal();">
+<i class="fas fa-check fa-fw"></i> <span id="confirm-modal-button" class="text-capitalize">Action</span>
+</button>
+<button type="button" class="btn btn-default" data-dismiss="modal"><i class="fas fa-times fa-fw"></i> Cancel</button>
+</div>
+</div>
+</div>
+</div>
+
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript">
+    var confirmcallback;
+    var confirmcallbackargs;
+
+    function execConfirmModal() {
+        $('#confirm-modal').modal('hide');
+        confirmcallback.apply(this,confirmcallbackargs);
+    }
+
+    function showConfirmModal(action,detail,callback,args) {
+        confirmcallback=callback;
+        confirmcallbackargs=args;
+        $('#confirm-modal-detail').html(detail);
+        $('#confirm-modal-action').text(action);
+        $('#confirm-modal-button').text(action);
+        $('#confirm-modal').modal('show');
+    }
+</script>
+
+<div id="support-modal" class="modal fade" role="dialog">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-hidden="true"><i class="fas fa-times fa-fw"></i></button>
+<a href="/"><img class="modal-logo logo-full" src="/static/v130/images/logo-full-day.png" alt="BitChute"></a>
+</div>
+<div class="modal-body">
+ <p>If you wish to <span id="support-modal-action" class="text-lowercase">action</span>:</p>
+<p><strong id="support-modal-detail" class="text-uppercase text-danger">Object being modified by the action</strong></p>
+<p>Then please send an email request to <a href="/cdn-cgi/l/email-protection#9eedebeeeef1eceadefcf7eafdf6ebeafbb0fdf1f3"><span class="__cf_email__" data-cfemail="14676164647b666054767d60777c6160713a777b79">[email&#160;protected]</span></a>.</p>
+</div>
+<div class="modal-footer">
+<button type="button" class="btn btn-default" data-dismiss="modal"><i class="fas fa-times fa-fw"></i> Close</button>
+</div>
+</div>
+</div>
+</div>
+
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript">
+    function showSupportModal(action,detail) {
+        $('#support-modal-detail').text(detail);
+        $('#support-modal-action').text(action);
+        $('#support-modal-button').text(action);
+        $('#support-modal').modal('show');
+    }
+</script>
+<div class="container">
+<div id="page-bar" class="row">
+<div class="col-xs-12">
+<h1 id="channel-title" class="page-title hidden">War Room</h1>
+<div class="channel-banner">
+<div class="backdrop"></div>
+<div class="image-container">
+<a href="/channel/warroomshow/" class="spa">
+<img class="image lazyload" src="/static/v130/images/loading_small.png" data-src="https://static-3.bitchute.com/live/channel_images/9c7qJvwx7YQ1/KAuARPhFMqFKNDkjeesxrVJS_small.jpg" onerror="this.src='/static/v130/images/blank_small.png';this.onerror='';" alt="channel image">
+</a>
+</div>
+<div class="details">
+<p class="name"><a href="/channel/warroomshow/" class="spa">War Room</a></p>
+<p class="owner"><a href="/profile/37LtOAayc4Wy/" class="spa">Infowars</a></p>
+<p class="subscribers"><i class="fas fa-users fa-fw"></i> <span id="subscriber_count"><i class="fas fa-spinner fa-pulse"></i></span> subscribers</p>
+</div>
+<div class="actions">
+<div class="social">
+<a href="https://infowars.com" target="_blank" rel="noopener noreferrer" data-toggle="tooltip" data-placement="bottom" title="Website"><i class="action-icon fas fa-link fa-fw"></i></a>
+<a href="https://www.minds.com/Infowars/" target="_blank" rel="noopener noreferrer" data-toggle="tooltip" data-placement="bottom" title="Minds">
+<i class="action-icon fas fa-lightbulb fa-fw"></i>
+</a>
+<a href="https://gab.com/RealAlexJones" target="_blank" rel="noopener noreferrer" data-toggle="tooltip" data-placement="bottom" title="Gab">
+<i class="action-icon fas fa-frog fa-fw"></i>
+</a>
+<a href="https://vk.com/alexjoneslive" target="_blank" rel="noopener noreferrer" data-toggle="tooltip" data-placement="bottom" title="VK">
+<i class="action-icon fab fa-vk fa-fw"></i>
+</a>
+</div>
+<div class="subscriber">
+<span class="creator-monetization" data-toggle="tooltip" data-placement="bottom" title="Tip or Pledge">
+<i class="action-icon fas fa-usd-circle fa-fw fa-lg remove faa-vertical animated hidden" id="on-usd-id" data-fa-transform="down-1"></i>
+<i class="action-icon fas fa-usd-circle fa-fw fa-lg" id="off-usd-id" data-fa-transform="down-1"></i>
+</span>
+<button class="btn btn-danger" onclick="authShowModal('');">Subscribe</button>
+<span class="notify-button" onclick="authShowModal('');"><i class="fas fa-bell-slash fa-fw fa-lg"></i></span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="page-detail" class="row">
+<div class="col-xs-12">
+<div class="tab-scroll-outer">
+<div class="tab-scroll-inner">
+<ul class="nav nav-tabs nav-tabs-list">
+<li class="active"><a data-toggle="tab" href="#channel-videos">Videos</a></li>
+ <li><a data-toggle="tab" href="#channel-about">About</a></li>
+</ul>
+</div>
+<div class="tab-scroll-left"><i class="fas fa-chevron-left"></i></div>
+<div class="tab-scroll-right"><i class="fas fa-chevron-right"></i></div>
+</div>
+<div class="tab-content" id="channel-tabs">
+<div class="tab-pane active" id="channel-videos">
+<div class="row">
+<div class="col-xs-12">
+<div class="sensitivity-warning">
+<a href="/channel/warroomshow/?showall=1" class="spa">Some videos are not shown due to your current sensitivity settings, click here to show them.</a>
+</div>
+</div>
+<div class="col-xs-12 col-md-9">
+<div class="channel-videos-list">
+<div class="channel-videos-container">
+<div class="row">
+<div class="col-md-5 col-sm-6 text-center">
+<div class="channel-videos-image-container">
+<a href="/video/se8TS8FIaOZ7/" class="spa">
+<div class="channel-videos-image">
+<img class="img-responsive lazyload" src="/static/v130/images/loading_640x360.png" data-src="https://static-3.bitchute.com/live/cover_images/9c7qJvwx7YQ1/se8TS8FIaOZ7_640x360.jpg" onerror="this.src='/static/v130/images/blank_640x360.png';this.onerror='';" alt="video image">
+<img class="img-responsive play-overlay" src="/static/v130/images/play-button.png" alt="play">
+<span class="video-views"><i class="far fa-eye"></i> 2354</span>
+<span class="video-duration">4:22</span>
+</div>
+</a>
+</div>
+</div>
+<div class="col-md-7 col-sm-6">
+<div class="channel-videos-text-container">
+<div class="channel-videos-details text-right hidden-xs">
+<span>May 22, 2021</span>
+</div>
+<div class="channel-videos-title">
+<a href="/video/se8TS8FIaOZ7/" class="spa">HIGHLIGHTS - Democrats Want To Remove Parental Consent For Children In Schools Everywhere</a>
+</div>
+<div class="channel-videos-text">
+<p>Short on time, but still want to stay informed? The War Room Highlights covers clips from all 3 hours of the broadcast!</p>
+</div>
+<div class="channel-videos-details text-left hidden-sm hidden-md hidden-lg hidden-xl">
+<span>May 22, 2021</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="channel-videos-container">
+<div class="row">
+<div class="col-md-5 col-sm-6 text-center">
+<div class="channel-videos-image-container">
+<a href="/video/i87NL4mz6CqK/" class="spa">
+<div class="channel-videos-image">
+<img class="img-responsive lazyload" src="/static/v130/images/loading_640x360.png" data-src="https://static-3.bitchute.com/live/cover_images/9c7qJvwx7YQ1/i87NL4mz6CqK_640x360.jpg" onerror="this.src='/static/v130/images/blank_640x360.png';this.onerror='';" alt="video image">
+<img class="img-responsive play-overlay" src="/static/v130/images/play-button.png" alt="play">
+<span class="video-views"><i class="far fa-eye"></i> 2012</span>
+<span class="video-duration">14:11</span>
+</div>
+</a>
+</div>
+ </div>
+<div class="col-md-7 col-sm-6">
+<div class="channel-videos-text-container">
+<div class="channel-videos-details text-right hidden-xs">
+<span>May 22, 2021</span>
+</div>
+<div class="channel-videos-title">
+<a href="/video/i87NL4mz6CqK/" class="spa">Septic Tank Worker Says Vaccines Are Shedding Through Fecal Matter</a>
+</div>
+<div class="channel-videos-text">
+<p>Owen takes calls on the War Room, and receives a call from a septic tank worker who reports that vaccinated people’s septic tanks are behaving strangely.</p>
+</div>
+<div class="channel-videos-details text-left hidden-sm hidden-md hidden-lg hidden-xl">
+<span>May 22, 2021</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="channel-videos-container">
+<div class="row">
+<div class="col-md-5 col-sm-6 text-center">
+<div class="channel-videos-image-container">
+<a href="/video/3VqOBUaFlJxu/" class="spa">
+<div class="channel-videos-image">
+<img class="img-responsive lazyload" src="/static/v130/images/loading_640x360.png" data-src="https://static-3.bitchute.com/live/cover_images/9c7qJvwx7YQ1/3VqOBUaFlJxu_640x360.jpg" onerror="this.src='/static/v130/images/blank_640x360.png';this.onerror='';" alt="video image">
+<img class="img-responsive play-overlay" src="/static/v130/images/play-button.png" alt="play">
+<span class="video-views"><i class="far fa-eye"></i> 1571</span>
+<span class="video-duration">10:54</span>
+</div>
+</a>
+</div>
+</div>
+<div class="col-md-7 col-sm-6">
+<div class="channel-videos-text-container">
+<div class="channel-videos-details text-right hidden-xs">
+<span>May 22, 2021</span>
+</div>
+<div class="channel-videos-title">
+<a href="/video/3VqOBUaFlJxu/" class="spa">Watch Psycho Joe Scarborough Go On Hilarious Scripted Rant</a>
+</div>
+<div class="channel-videos-text">
+<p>Owen reacts to Joe Scarborough as he has a meltdown which makes no sense.</p>
+</div>
+<div class="channel-videos-details text-left hidden-sm hidden-md hidden-lg hidden-xl">
+<span>May 22, 2021</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="channel-videos-container">
+<div class="row">
+<div class="col-md-5 col-sm-6 text-center">
+<div class="channel-videos-image-container">
+<a href="/video/XGij2pwzmACO/" class="spa">
+<div class="channel-videos-image">
+<img class="img-responsive lazyload" src="/static/v130/images/loading_640x360.png" data-src="https://static-3.bitchute.com/live/cover_images/9c7qJvwx7YQ1/XGij2pwzmACO_640x360.jpg" onerror="this.src='/static/v130/images/blank_640x360.png';this.onerror='';" alt="video image">
+<img class="img-responsive play-overlay" src="/static/v130/images/play-button.png" alt="play">
+<span class="video-views"><i class="far fa-eye"></i> 2066</span>
+<span class="video-duration">6:23</span>
+</div>
+</a>
+</div>
+</div>
+<div class="col-md-7 col-sm-6">
+<div class="channel-videos-text-container">
+<div class="channel-videos-details text-right hidden-xs">
+<span>May 22, 2021</span>
+</div>
+<div class="channel-videos-title">
+<a href="/video/XGij2pwzmACO/" class="spa">Registered Sex Offender Attempts To Vaccinate Server At Restaurant</a>
+</div>
+<div class="channel-videos-text">
+<p>A waitress from Texas, Michelle, tells a story about a male customer who offered to give her the COVID-19 vaccine right there in the restaurant where she was working.</p>
+</div>
+<div class="channel-videos-details text-left hidden-sm hidden-md hidden-lg hidden-xl">
+<span>May 22, 2021</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="channel-videos-container">
+<div class="row">
+<div class="col-md-5 col-sm-6 text-center">
+<div class="channel-videos-image-container">
+<a href="/video/TTFU694isLJj/" class="spa">
+<div class="channel-videos-image">
+<img class="img-responsive lazyload" src="/static/v130/images/loading_640x360.png" data-src="https://static-3.bitchute.com/live/cover_images/9c7qJvwx7YQ1/TTFU694isLJj_640x360.jpg" onerror="this.src='/static/v130/images/blank_640x360.png';this.onerror='';" alt="video image">
+<img class="img-responsive play-overlay" src="/static/v130/images/play-button.png" alt="play">
+<span class="video-views"><i class="far fa-eye"></i> 1957</span>
+<span class="video-duration">10:21</span>
+</div>
+</a>
+</div>
+</div>
+<div class="col-md-7 col-sm-6">
+<div class="channel-videos-text-container">
+<div class="channel-videos-details text-right hidden-xs">
+<span>May 22, 2021</span>
+</div>
+<div class="channel-videos-title">
+<a href="/video/TTFU694isLJj/" class="spa">Shocking TV Scene Predicts Exact COVID-19 Scenario</a>
+</div>
+<div class="channel-videos-text">
+<p>Owen comments on a show called &quot;Utopia&quot; which shockingly predicts the current state of the world under the medical tyranny brought on by the COVID-19 pandemic.</p>
+</div>
+<div class="channel-videos-details text-left hidden-sm hidden-md hidden-lg hidden-xl">
+<span>May 22, 2021</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="channel-videos-container">
+<div class="row">
+<div class="col-md-5 col-sm-6 text-center">
+<div class="channel-videos-image-container">
+<a href="/video/ne7yf9PUswzR/" class="spa">
+<div class="channel-videos-image">
+<img class="img-responsive lazyload" src="/static/v130/images/loading_640x360.png" data-src="https://static-3.bitchute.com/live/cover_images/9c7qJvwx7YQ1/ne7yf9PUswzR_640x360.jpg" onerror="this.src='/static/v130/images/blank_640x360.png';this.onerror='';" alt="video image">
+<img class="img-responsive play-overlay" src="/static/v130/images/play-button.png" alt="play">
+<span class="video-views"><i class="far fa-eye"></i> 1781</span>
+<span class="video-duration">2:11:50</span>
+</div>
+</a>
+</div>
+</div>
+<div class="col-md-7 col-sm-6">
+<div class="channel-videos-text-container">
+<div class="channel-videos-details text-right hidden-xs">
+<span>May 22, 2021</span>
+</div>
+<div class="channel-videos-title">
+<a href="/video/ne7yf9PUswzR/" class="spa">FULL SHOW: New Poll Shows Conservative Media Viewers More Informed than Liberal Media Consumers</a>
+ </div>
+<div class="channel-videos-text">
+<p>Alex Jones files a breaking report explaining how we saw the COVID pandemic coming and how we knew the vaccine rollout would go and the side effects, or real intentions, would be buried, such as the “not for human use” ingredients. Owen Shroyer takes calls for all three hours as well, with some powerful callers sharing their stories of potential vaccine shedding. One of Owen’s dreams was crushed this week, he explains what it was.</p>
+</div>
+<div class="channel-videos-details text-left hidden-sm hidden-md hidden-lg hidden-xl">
+<span>May 22, 2021</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="channel-videos-container">
+<div class="row">
+<div class="col-md-5 col-sm-6 text-center">
+<div class="channel-videos-image-container">
+<a href="/video/bGFtAVQ1f1ft/" class="spa">
+<div class="channel-videos-image">
+<img class="img-responsive lazyload" src="/static/v130/images/loading_640x360.png" data-src="https://static-3.bitchute.com/live/cover_images/9c7qJvwx7YQ1/bGFtAVQ1f1ft_640x360.jpg" onerror="this.src='/static/v130/images/blank_640x360.png';this.onerror='';" alt="video image">
+<img class="img-responsive play-overlay" src="/static/v130/images/play-button.png" alt="play">
+<span class="video-views"><i class="far fa-eye"></i> 5798</span>
+<span class="video-duration">5:39</span>
+</div>
+</a>
+</div>
+</div>
+<div class="col-md-7 col-sm-6">
+<div class="channel-videos-text-container">
+<div class="channel-videos-details text-right hidden-xs">
+<span>May 21, 2021</span>
+</div>
+<div class="channel-videos-title">
+<a href="/video/bGFtAVQ1f1ft/" class="spa">HIGHLIGHTS - Know What’s Inside The Vaccines</a>
+</div>
+<div class="channel-videos-text">
+<p>Short on time, but still want to stay informed? The War Room Highlights covers clips from all 3 hours of the broadcast!</p>
+</div>
+<div class="channel-videos-details text-left hidden-sm hidden-md hidden-lg hidden-xl">
+<span>May 21, 2021</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="channel-videos-container">
+<div class="row">
+<div class="col-md-5 col-sm-6 text-center">
+<div class="channel-videos-image-container">
+<a href="/video/h0NWYrLzgFAd/" class="spa">
+<div class="channel-videos-image">
+<img class="img-responsive lazyload" src="/static/v130/images/loading_640x360.png" data-src="https://static-3.bitchute.com/live/cover_images/9c7qJvwx7YQ1/h0NWYrLzgFAd_640x360.jpg" onerror="this.src='/static/v130/images/blank_640x360.png';this.onerror='';" alt="video image">
+<img class="img-responsive play-overlay" src="/static/v130/images/play-button.png" alt="play">
+<span class="video-views"><i class="far fa-eye"></i> 1964</span>
+<span class="video-duration">20:58</span>
+</div>
+</a>
+</div>
+</div>
+<div class="col-md-7 col-sm-6">
+<div class="channel-videos-text-container">
+<div class="channel-videos-details text-right hidden-xs">
+<span>May 21, 2021</span>
+</div>
+<div class="channel-videos-title">
+<a href="/video/h0NWYrLzgFAd/" class="spa">California Wants To EXTEND Their Mask Mandate, While Most States Drop Them</a>
+</div>
+<div class="channel-videos-text">
+<p>Dr. Jane Ruby is joined by Veteran and activist Cory Brockman who describes his fight against tyranny in California.</p>
+</div>
+<div class="channel-videos-details text-left hidden-sm hidden-md hidden-lg hidden-xl">
+<span>May 21, 2021</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="channel-videos-container">
+<div class="row">
+<div class="col-md-5 col-sm-6 text-center">
+<div class="channel-videos-image-container">
+<a href="/video/ytj7MRyyfl6p/" class="spa">
+<div class="channel-videos-image">
+<img class="img-responsive lazyload" src="/static/v130/images/loading_640x360.png" data-src="https://static-3.bitchute.com/live/cover_images/9c7qJvwx7YQ1/ytj7MRyyfl6p_640x360.jpg" onerror="this.src='/static/v130/images/blank_640x360.png';this.onerror='';" alt="video image">
+<img class="img-responsive play-overlay" src="/static/v130/images/play-button.png" alt="play">
+<span class="video-views"><i class="far fa-eye"></i> 1276</span>
+<span class="video-duration">21:57</span>
+</div>
+</a>
+</div>
+</div>
+<div class="col-md-7 col-sm-6">
+<div class="channel-videos-text-container">
+<div class="channel-videos-details text-right hidden-xs">
+<span>May 21, 2021</span>
+</div>
+<div class="channel-videos-title">
+<a href="/video/ytj7MRyyfl6p/" class="spa">Tyrannical School Boards Still Want To Mandate Children to Wear Masks</a>
+</div>
+<div class="channel-videos-text">
+<p>Angelique Contreras, a fighter on the frontlines against tyranny in Florida, joins Dr. Jane Ruby to describe her victories.</p>
+</div>
+<div class="channel-videos-details text-left hidden-sm hidden-md hidden-lg hidden-xl">
+<span>May 21, 2021</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="channel-videos-container">
+<div class="row">
+<div class="col-md-5 col-sm-6 text-center">
+<div class="channel-videos-image-container">
+<a href="/video/JMapS4XWFQAL/" class="spa">
+<div class="channel-videos-image">
+<img class="img-responsive lazyload" src="/static/v130/images/loading_640x360.png" data-src="https://static-3.bitchute.com/live/cover_images/9c7qJvwx7YQ1/JMapS4XWFQAL_640x360.jpg" onerror="this.src='/static/v130/images/blank_640x360.png';this.onerror='';" alt="video image">
+<img class="img-responsive play-overlay" src="/static/v130/images/play-button.png" alt="play">
+<span class="video-views"><i class="far fa-eye"></i> 1742</span>
+<span class="video-duration">2:11:56</span>
+</div>
+</a>
+</div>
+</div>
+<div class="col-md-7 col-sm-6">
+<div class="channel-videos-text-container">
+<div class="channel-videos-details text-right hidden-xs">
+<span>May 21, 2021</span>
+</div>
+<div class="channel-videos-title">
+<a href="/video/JMapS4XWFQAL/" class="spa">FULL SHOW: Doctors Are Fighting Back Against COVID Medical Tyranny And Deadly Vaccinations</a>
+</div>
+<div class="channel-videos-text">
+<p>Dr. Jane Ruby guest hosts the War Room to discuss with guests about the many ways fraud is being revealed within the COVID pandemic. In the first hour, Dr. Jane Ruby is joined by Alan Dershowitz for a bit to expose the left’s hypocrisy, then Dr. Jane talks about Fauci, Joe Biden, and spike proteins. In the second hour, Dr. Jane Ruby is joined by guest Albert Benavides, a patriot content creator who has modeled graphs after the VAERS adverse reaction reporting system. Angelique Contreras, an inspiring community activist from Florida, joins later to describe the victories she has won. In the third hour, Dr. Jane Ruby is joined by Cory Brockman, a brave veteran who spoke out against tyranny in California.</p>
+</div>
+<div class="channel-videos-details text-left hidden-sm hidden-md hidden-lg hidden-xl">
+<span>May 21, 2021</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="channel-videos-container">
+<div class="row">
+<div class="col-md-5 col-sm-6 text-center">
+<div class="channel-videos-image-container">
+<a href="/video/zkjjzOBpiGGW/" class="spa">
+<div class="channel-videos-image">
+<img class="img-responsive lazyload" src="/static/v130/images/loading_640x360.png" data-src="https://static-3.bitchute.com/live/cover_images/9c7qJvwx7YQ1/zkjjzOBpiGGW_640x360.jpg" onerror="this.src='/static/v130/images/blank_640x360.png';this.onerror='';" alt="video image">
+<img class="img-responsive play-overlay" src="/static/v130/images/play-button.png" alt="play">
+<span class="video-views"><i class="far fa-eye"></i> 1858</span>
+<span class="video-duration">20:39</span>
+</div>
+</a>
+</div>
+</div>
+<div class="col-md-7 col-sm-6">
+<div class="channel-videos-text-container">
+<div class="channel-videos-details text-right hidden-xs">
+<span>May 21, 2021</span>
+</div>
+<div class="channel-videos-title">
+<a href="/video/zkjjzOBpiGGW/" class="spa">CDC Cover Up Hiding More Than 1 Million People Will Have Adverse Effects From COVID Vaccine</a>
+</div>
+<div class="channel-videos-text">
+<p>Dr. Jane Ruby is joined by Albert Benavides to discuss CDC case numbers and VAERS adverse reaction numbers.</p>
+</div>
+<div class="channel-videos-details text-left hidden-sm hidden-md hidden-lg hidden-xl">
+<span>May 21, 2021</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="channel-videos-container">
+<div class="row">
+<div class="col-md-5 col-sm-6 text-center">
+<div class="channel-videos-image-container">
+<a href="/video/5VaERFnlFv10/" class="spa">
+<div class="channel-videos-image">
+<img class="img-responsive lazyload" src="/static/v130/images/loading_640x360.png" data-src="https://static-3.bitchute.com/live/cover_images/9c7qJvwx7YQ1/5VaERFnlFv10_640x360.jpg" onerror="this.src='/static/v130/images/blank_640x360.png';this.onerror='';" alt="video image">
+<img class="img-responsive play-overlay" src="/static/v130/images/play-button.png" alt="play">
+<span class="video-views"><i class="far fa-eye"></i> 1312</span>
+<span class="video-duration">12:27</span>
+</div>
+</a>
+</div>
+</div>
+<div class="col-md-7 col-sm-6">
+<div class="channel-videos-text-container">
+<div class="channel-videos-details text-right hidden-xs">
+<span>May 21, 2021</span>
+</div>
+<div class="channel-videos-title">
+<a href="/video/5VaERFnlFv10/" class="spa">Alan Dershowitz: Free Speech Does Not Guarantee Good Ideas Will Win</a>
+</div>
+<div class="channel-videos-text">
+<p>Renowned legal scholar, Alan Dershowitz, joins Dr. Jane Ruby to discuss freedom of speech, the intolerant left, and what he thinks about the 2020 election.</p>
+</div>
+<div class="channel-videos-details text-left hidden-sm hidden-md hidden-lg hidden-xl">
+<span>May 21, 2021</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="channel-videos-container">
+<div class="row">
+<div class="col-md-5 col-sm-6 text-center">
+<div class="channel-videos-image-container">
+<a href="/video/ZlZUaae9Rr6G/" class="spa">
+<div class="channel-videos-image">
+<img class="img-responsive lazyload" src="/static/v130/images/loading_640x360.png" data-src="https://static-3.bitchute.com/live/cover_images/9c7qJvwx7YQ1/ZlZUaae9Rr6G_640x360.jpg" onerror="this.src='/static/v130/images/blank_640x360.png';this.onerror='';" alt="video image">
+<img class="img-responsive play-overlay" src="/static/v130/images/play-button.png" alt="play">
+<span class="video-views"><i class="far fa-eye"></i> 3307</span>
+<span class="video-duration">11:57</span>
+</div>
+</a>
+</div>
+</div>
+<div class="col-md-7 col-sm-6">
+<div class="channel-videos-text-container">
+<div class="channel-videos-details text-right hidden-xs">
+<span>May 20, 2021</span>
+</div>
+<div class="channel-videos-title">
+<a href="/video/ZlZUaae9Rr6G/" class="spa">Connecticut Governor Maliciously Subjects Its Own Citizens To Vaccine Injuries And Death</a>
+</div>
+<div class="channel-videos-text">
+<p>Mike Adam delivers breaking news about the negative effects the governor of Connecticut knew about the COVID vaccine and when he knew it.</p>
+</div>
+<div class="channel-videos-details text-left hidden-sm hidden-md hidden-lg hidden-xl">
+<span>May 20, 2021</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="channel-videos-container">
+<div class="row">
+<div class="col-md-5 col-sm-6 text-center">
+<div class="channel-videos-image-container">
+<a href="/video/IsuaCOswDmuk/" class="spa">
+<div class="channel-videos-image">
+<img class="img-responsive lazyload" src="/static/v130/images/loading_640x360.png" data-src="https://static-3.bitchute.com/live/cover_images/9c7qJvwx7YQ1/IsuaCOswDmuk_640x360.jpg" onerror="this.src='/static/v130/images/blank_640x360.png';this.onerror='';" alt="video image">
+<img class="img-responsive play-overlay" src="/static/v130/images/play-button.png" alt="play">
+<span class="video-views"><i class="far fa-eye"></i> 1411</span>
+<span class="video-duration">42:11</span>
+</div>
+</a>
+</div>
+</div>
+<div class="col-md-7 col-sm-6">
+<div class="channel-videos-text-container">
+<div class="channel-videos-details text-right hidden-xs">
+<span>May 20, 2021</span>
+</div>
+<div class="channel-videos-title">
+<a href="/video/IsuaCOswDmuk/" class="spa">Revisiting The Great Insurgence And How It Is Still Impacting The Patriot Movement Today</a>
+</div>
+<div class="channel-videos-text">
+ <p>Brandon Gray, of Just Another Channel, guest hosts The War Room, and revisits the riot January 6th at the D.C capitol and asks, &quot;how is this still impacting the patriot movement today?&quot;.</p>
+</div>
+<div class="channel-videos-details text-left hidden-sm hidden-md hidden-lg hidden-xl">
+<span>May 20, 2021</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="channel-videos-container">
+<div class="row">
+<div class="col-md-5 col-sm-6 text-center">
+<div class="channel-videos-image-container">
+<a href="/video/lHgo3b1V2c2w/" class="spa">
+<div class="channel-videos-image">
+<img class="img-responsive lazyload" src="/static/v130/images/loading_640x360.png" data-src="https://static-3.bitchute.com/live/cover_images/9c7qJvwx7YQ1/lHgo3b1V2c2w_640x360.jpg" onerror="this.src='/static/v130/images/blank_640x360.png';this.onerror='';" alt="video image">
+<img class="img-responsive play-overlay" src="/static/v130/images/play-button.png" alt="play">
+<span class="video-views"><i class="far fa-eye"></i> 1554</span>
+<span class="video-duration">5:32</span>
+</div>
+</a>
+</div>
+</div>
+<div class="col-md-7 col-sm-6">
+<div class="channel-videos-text-container">
+<div class="channel-videos-details text-right hidden-xs">
+<span>May 20, 2021</span>
+</div>
+<div class="channel-videos-title">
+<a href="/video/lHgo3b1V2c2w/" class="spa">HIGHLIGHTS - Prepper Tips For Coming Food Shortage</a>
+</div>
+<div class="channel-videos-text">
+<p>Short on time, but still want to stay informed? The War Room Highlights covers clips from all 3 hours of the broadcast!</p>
+</div>
+<div class="channel-videos-details text-left hidden-sm hidden-md hidden-lg hidden-xl">
+<span>May 20, 2021</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="channel-videos-container">
+<div class="row">
+<div class="col-md-5 col-sm-6 text-center">
+<div class="channel-videos-image-container">
+<a href="/video/qZ25IxZAkrAa/" class="spa">
+<div class="channel-videos-image">
+<img class="img-responsive lazyload" src="/static/v130/images/loading_640x360.png" data-src="https://static-3.bitchute.com/live/cover_images/9c7qJvwx7YQ1/qZ25IxZAkrAa_640x360.jpg" onerror="this.src='/static/v130/images/blank_640x360.png';this.onerror='';" alt="video image">
+<img class="img-responsive play-overlay" src="/static/v130/images/play-button.png" alt="play">
+<span class="video-views"><i class="far fa-eye"></i> 1564</span>
+<span class="video-duration">12:05</span>
+</div>
+</a>
+</div>
+</div>
+<div class="col-md-7 col-sm-6">
+<div class="channel-videos-text-container">
+<div class="channel-videos-details text-right hidden-xs">
+<span>May 20, 2021</span>
+</div>
+<div class="channel-videos-title">
+<a href="/video/qZ25IxZAkrAa/" class="spa">Molecular 3D Printing Can Keep The Spike Protein Pandemic Going Forever</a>
+</div>
+<div class="channel-videos-text">
+<p>Mike Adams, the health ranger, guest hosts The War Room, and expands on what exactly spike proteins are and how it affects fertility.</p>
+</div>
+<div class="channel-videos-details text-left hidden-sm hidden-md hidden-lg hidden-xl">
+<span>May 20, 2021</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="channel-videos-container">
+<div class="row">
+<div class="col-md-5 col-sm-6 text-center">
+<div class="channel-videos-image-container">
+<a href="/video/L896dmrLY4PG/" class="spa">
+<div class="channel-videos-image">
+<img class="img-responsive lazyload" src="/static/v130/images/loading_640x360.png" data-src="https://static-3.bitchute.com/live/cover_images/9c7qJvwx7YQ1/L896dmrLY4PG_640x360.jpg" onerror="this.src='/static/v130/images/blank_640x360.png';this.onerror='';" alt="video image">
+<img class="img-responsive play-overlay" src="/static/v130/images/play-button.png" alt="play">
+<span class="video-views"><i class="far fa-eye"></i> 2226</span>
+<span class="video-duration">12:48</span>
+</div>
+</a>
+</div>
+</div>
+<div class="col-md-7 col-sm-6">
+<div class="channel-videos-text-container">
+<div class="channel-videos-details text-right hidden-xs">
+<span>May 20, 2021</span>
+</div>
+<div class="channel-videos-title">
+<a href="/video/L896dmrLY4PG/" class="spa">The Spike Protein Is The Bioweapon, And It Is Found In The Vaccines</a>
+</div>
+<div class="channel-videos-text">
+<p>Mike Adams guest hosts The War Room, and explains what the spike proteins in the COVID vaccines are.</p>
+</div>
+<div class="channel-videos-details text-left hidden-sm hidden-md hidden-lg hidden-xl">
+<span>May 20, 2021</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="channel-videos-container">
+<div class="row">
+<div class="col-md-5 col-sm-6 text-center">
+<div class="channel-videos-image-container">
+<a href="/video/rS9J70zuG193/" class="spa">
+<div class="channel-videos-image">
+<img class="img-responsive lazyload" src="/static/v130/images/loading_640x360.png" data-src="https://static-3.bitchute.com/live/cover_images/9c7qJvwx7YQ1/rS9J70zuG193_640x360.jpg" onerror="this.src='/static/v130/images/blank_640x360.png';this.onerror='';" alt="video image">
+<img class="img-responsive play-overlay" src="/static/v130/images/play-button.png" alt="play">
+<span class="video-views"><i class="far fa-eye"></i> 1800</span>
+<span class="video-duration">2:10:38</span>
+</div>
+</a>
+</div>
+</div>
+<div class="col-md-7 col-sm-6">
+<div class="channel-videos-text-container">
+<div class="channel-videos-details text-right hidden-xs">
+<span>May 20, 2021</span>
+</div>
+<div class="channel-videos-title">
+<a href="/video/rS9J70zuG193/" class="spa">FULL SHOW: Fauci And Obama Gave China The Bioweapon Used Against The U.S.</a>
+</div>
+<div class="channel-videos-text">
+<p>Owen Shroyer and Dan Lyman open the show discussing the wide open border crisis in America and how it might be even worse for Europe right now. It also seems to be clear that Anthony Fauci and Barack Obama facilitated the Chinese Communists with a bioweapon that they then unleashed on the world. Mike Adams breaks down how the Connecticut government knows there&#x27;s deadly ingredients in the COVID vaccine, but that they covered it up. On the last hour of the War Room, Brandon Gray of Just Another Channel, revisits the January 6th Capitol Riot to explore the ways that it still affects the patriot movement.</p>
+</div>
+<div class="channel-videos-details text-left hidden-sm hidden-md hidden-lg hidden-xl">
+<span>May 20, 2021</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="channel-videos-container">
+<div class="row">
+<div class="col-md-5 col-sm-6 text-center">
+<div class="channel-videos-image-container">
+<a href="/video/Sdexkwv1IFoB/" class="spa">
+<div class="channel-videos-image">
+<img class="img-responsive lazyload" src="/static/v130/images/loading_640x360.png" data-src="https://static-3.bitchute.com/live/cover_images/9c7qJvwx7YQ1/Sdexkwv1IFoB_640x360.jpg" onerror="this.src='/static/v130/images/blank_640x360.png';this.onerror='';" alt="video image">
+<img class="img-responsive play-overlay" src="/static/v130/images/play-button.png" alt="play">
+<span class="video-views"><i class="far fa-eye"></i> 1872</span>
+<span class="video-duration">12:36</span>
+</div>
+</a>
+</div>
+</div>
+<div class="col-md-7 col-sm-6">
+<div class="channel-videos-text-container">
+<div class="channel-videos-details text-right hidden-xs">
+<span>May 20, 2021</span>
+</div>
+<div class="channel-videos-title">
+<a href="/video/Sdexkwv1IFoB/" class="spa">Vladimir Putin Calls Out War Crimes Of McCain And Biden</a>
+</div>
+<div class="channel-videos-text">
+<p>Owen explains why the globalists actually hate Vladimir Putin as he articulately calls out their hidden agenda.</p>
+</div>
+<div class="channel-videos-details text-left hidden-sm hidden-md hidden-lg hidden-xl">
+<span>May 20, 2021</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="channel-videos-container">
+<div class="row">
+<div class="col-md-5 col-sm-6 text-center">
+<div class="channel-videos-image-container">
+<a href="/video/uSwhZB8BtQDz/" class="spa">
+<div class="channel-videos-image">
+<img class="img-responsive lazyload" src="/static/v130/images/loading_640x360.png" data-src="https://static-3.bitchute.com/live/cover_images/9c7qJvwx7YQ1/uSwhZB8BtQDz_640x360.jpg" onerror="this.src='/static/v130/images/blank_640x360.png';this.onerror='';" alt="video image">
+<img class="img-responsive play-overlay" src="/static/v130/images/play-button.png" alt="play">
+<span class="video-views"><i class="far fa-eye"></i> 1888</span>
+<span class="video-duration">12:03</span>
+</div>
+</a>
+</div>
+</div>
+<div class="col-md-7 col-sm-6">
+<div class="channel-videos-text-container">
+<div class="channel-videos-details text-right hidden-xs">
+<span>May 20, 2021</span>
+</div>
+<div class="channel-videos-title">
+<a href="/video/uSwhZB8BtQDz/" class="spa">Spanish Military Pushing Migrants Off Cliffs As They Attempt To Invade Country</a>
+</div>
+<div class="channel-videos-text">
+<p>Shocking video out of Spain shows the level of crisis at the Spanish border as the military confronts migrants with violence.</p>
+</div>
+<div class="channel-videos-details text-left hidden-sm hidden-md hidden-lg hidden-xl">
+ <span>May 20, 2021</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="channel-videos-container">
+<div class="row">
+<div class="col-md-5 col-sm-6 text-center">
+<div class="channel-videos-image-container">
+<a href="/video/Ktq1zjeGQ7uv/" class="spa">
+<div class="channel-videos-image">
+<img class="img-responsive lazyload" src="/static/v130/images/loading_640x360.png" data-src="https://static-3.bitchute.com/live/cover_images/9c7qJvwx7YQ1/Ktq1zjeGQ7uv_640x360.jpg" onerror="this.src='/static/v130/images/blank_640x360.png';this.onerror='';" alt="video image">
+<img class="img-responsive play-overlay" src="/static/v130/images/play-button.png" alt="play">
+<span class="video-views"><i class="far fa-eye"></i> 2824</span>
+<span class="video-duration">5:43</span>
+</div>
+</a>
+</div>
+</div>
+<div class="col-md-7 col-sm-6">
+<div class="channel-videos-text-container">
+<div class="channel-videos-details text-right hidden-xs">
+<span>May 19, 2021</span>
+</div>
+<div class="channel-videos-title">
+<a href="/video/Ktq1zjeGQ7uv/" class="spa">HIGHLIGHTS - The Modern Republican Party</a>
+</div>
+<div class="channel-videos-text">
+<p>Short on time, but still want to stay informed? The War Room Highlights covers clips from all 3 hours of the broadcast!</p>
+</div>
+<div class="channel-videos-details text-left hidden-sm hidden-md hidden-lg hidden-xl">
+<span>May 19, 2021</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="channel-videos-container">
+<div class="row">
+<div class="col-md-5 col-sm-6 text-center">
+<div class="channel-videos-image-container">
+<a href="/video/LI2DWoRRvUwh/" class="spa">
+<div class="channel-videos-image">
+<img class="img-responsive lazyload" src="/static/v130/images/loading_640x360.png" data-src="https://static-3.bitchute.com/live/cover_images/9c7qJvwx7YQ1/LI2DWoRRvUwh_640x360.jpg" onerror="this.src='/static/v130/images/blank_640x360.png';this.onerror='';" alt="video image">
+<img class="img-responsive play-overlay" src="/static/v130/images/play-button.png" alt="play">
+<span class="video-views"><i class="far fa-eye"></i> 1634</span>
+<span class="video-duration">22:48</span>
+</div>
+</a>
+</div>
+</div>
+<div class="col-md-7 col-sm-6">
+<div class="channel-videos-text-container">
+<div class="channel-videos-details text-right hidden-xs">
+<span>May 19, 2021</span>
+</div>
+<div class="channel-videos-title">
+<a href="/video/LI2DWoRRvUwh/" class="spa">Once Transgender Family Activist Shares Stunning Story Of Finding Christ</a>
+</div>
+<div class="channel-videos-text">
+<p>Tom Pappert is joined by family activist Kevin Whitt, who used to be a member of the LGBTQ community, and is now sharing his story.</p>
+</div>
+<div class="channel-videos-details text-left hidden-sm hidden-md hidden-lg hidden-xl">
+<span>May 19, 2021</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="channel-videos-container">
+<div class="row">
+<div class="col-md-5 col-sm-6 text-center">
+<div class="channel-videos-image-container">
+<a href="/video/Dt5YJeHlnAKS/" class="spa">
+<div class="channel-videos-image">
+<img class="img-responsive lazyload" src="/static/v130/images/loading_640x360.png" data-src="https://static-3.bitchute.com/live/cover_images/9c7qJvwx7YQ1/Dt5YJeHlnAKS_640x360.jpg" onerror="this.src='/static/v130/images/blank_640x360.png';this.onerror='';" alt="video image">
+<img class="img-responsive play-overlay" src="/static/v130/images/play-button.png" alt="play">
+<span class="video-views"><i class="far fa-eye"></i> 1469</span>
+<span class="video-duration">11:29</span>
+</div>
+</a>
+</div>
+</div>
+<div class="col-md-7 col-sm-6">
+<div class="channel-videos-text-container">
+<div class="channel-videos-details text-right hidden-xs">
+<span>May 19, 2021</span>
+</div>
+<div class="channel-videos-title">
+<a href="/video/Dt5YJeHlnAKS/" class="spa">Texas Republicans Let Kids Get Transgender Surgeries To Please Their Corporate Donors</a>
+</div>
+<div class="channel-videos-text">
+<p>Tom Pappert is joined by family activist Kevin Whitt, who delves deeper into what is happening behind the scenes of the transgender agenda being pushed on children.</p>
+</div>
+<div class="channel-videos-details text-left hidden-sm hidden-md hidden-lg hidden-xl">
+<span>May 19, 2021</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="channel-videos-container">
+<div class="row">
+<div class="col-md-5 col-sm-6 text-center">
+<div class="channel-videos-image-container">
+<a href="/video/Sao1Cifu5R2t/" class="spa">
+<div class="channel-videos-image">
+<img class="img-responsive lazyload" src="/static/v130/images/loading_640x360.png" data-src="https://static-3.bitchute.com/live/cover_images/9c7qJvwx7YQ1/Sao1Cifu5R2t_640x360.jpg" onerror="this.src='/static/v130/images/blank_640x360.png';this.onerror='';" alt="video image">
+<img class="img-responsive play-overlay" src="/static/v130/images/play-button.png" alt="play">
+<span class="video-views"><i class="far fa-eye"></i> 1310</span>
+<span class="video-duration">25:33</span>
+</div>
+</a>
+</div>
+</div>
+<div class="col-md-7 col-sm-6">
+<div class="channel-videos-text-container">
+<div class="channel-videos-details text-right hidden-xs">
+<span>May 19, 2021</span>
+</div>
+<div class="channel-videos-title">
+<a href="/video/Sao1Cifu5R2t/" class="spa">Texas Activist Explains How Transgenderism Destroys Families</a>
+</div>
+<div class="channel-videos-text">
+<p>Tom Pappert is joined by Tracy Shannon, an activist who wants parents to know what the reality of transgenderism does to families and children.</p>
+</div>
+<div class="channel-videos-details text-left hidden-sm hidden-md hidden-lg hidden-xl">
+<span>May 19, 2021</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="channel-videos-container">
+<div class="row">
+<div class="col-md-5 col-sm-6 text-center">
+<div class="channel-videos-image-container">
+<a href="/video/Nyrh4Qm39LwA/" class="spa">
+<div class="channel-videos-image">
+<img class="img-responsive lazyload" src="/static/v130/images/loading_640x360.png" data-src="https://static-3.bitchute.com/live/cover_images/9c7qJvwx7YQ1/Nyrh4Qm39LwA_640x360.jpg" onerror="this.src='/static/v130/images/blank_640x360.png';this.onerror='';" alt="video image">
+<img class="img-responsive play-overlay" src="/static/v130/images/play-button.png" alt="play">
+<span class="video-views"><i class="far fa-eye"></i> 1408</span>
+<span class="video-duration">13:31</span>
+</div>
+</a>
+</div>
+</div>
+<div class="col-md-7 col-sm-6">
+<div class="channel-videos-text-container">
+<div class="channel-videos-details text-right hidden-xs">
+<span>May 19, 2021</span>
+</div>
+<div class="channel-videos-title">
+<a href="/video/Nyrh4Qm39LwA/" class="spa">Shocking Data Shows How Dems Control Minority Voters By Keeping Them In Poverty</a>
+</div>
+<div class="channel-videos-text">
+<p>Newly released data exposes the left&#x27;s agenda to propagandize minorities into submission.</p>
+</div>
+<div class="channel-videos-details text-left hidden-sm hidden-md hidden-lg hidden-xl">
+<span>May 19, 2021</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="show-more-container"><div class="show-more"><span>SHOW MORE</span></div></div>
+</div>
+<div class="col-md-3 hidden-sm hidden-xs">
+<div class="sidebar">
+<div class="sidebar-video">
+<h1 class="sidebar-heading">Most Viewed</h1>
+
+<div class="video-card">
+<a href="/video/kKMlG6Y5k8Hm/" class="spa">
+<div class="video-card-image">
+<img class="img-responsive lazyload" src="/static/v130/images/loading_320x180.png" data-src="https://static-3.bitchute.com/live/cover_images/9c7qJvwx7YQ1/kKMlG6Y5k8Hm_320x180.jpg" onerror="this.src='/static/v130/images/blank_320x180.png';this.onerror='';" alt="video image">
+<img class="img-responsive play-overlay" src="/static/v130/images/play-button.png" alt="play">
+<span class="video-views"><i class="far fa-eye"></i> 24.1K</span>
+<span class="video-duration">11:21</span>
+</div>
+</a>
+<div class="video-card-text">
+<p class="video-card-title"><a href="/video/kKMlG6Y5k8Hm/" class="spa">Insider: President Trump Setup Democrats In Sting Operation To Catch Them Stealing Election</a></p>
+<p class="video-card-published">6 months, 2 weeks ago</p>
+</div>
+</div>
+<div class="video-card">
+<a href="/video/DVPtMs89i4SZ/" class="spa">
+<div class="video-card-image">
+<img class="img-responsive lazyload" src="/static/v130/images/loading_320x180.png" data-src="https://static-3.bitchute.com/live/cover_images/9c7qJvwx7YQ1/DVPtMs89i4SZ_320x180.jpg" onerror="this.src='/static/v130/images/blank_320x180.png';this.onerror='';" alt="video image">
+<img class="img-responsive play-overlay" src="/static/v130/images/play-button.png" alt="play">
+<span class="video-views"><i class="far fa-eye"></i> 13.1K</span>
+<span class="video-duration">4:59</span>
+</div>
+</a>
+<div class="video-card-text">
+<p class="video-card-title"><a href="/video/DVPtMs89i4SZ/" class="spa">HIGHLIGHTS - Johnson &amp; Johnson Vaccine Causes Man’s Skin To Peel</a></p>
+<p class="video-card-published">1 month, 3 weeks ago</p>
+</div>
+</div>
+<div class="video-card">
+<a href="/video/djqupEgegUkY/" class="spa">
+<div class="video-card-image">
+<img class="img-responsive lazyload" src="/static/v130/images/loading_320x180.png" data-src="https://static-3.bitchute.com/live/cover_images/9c7qJvwx7YQ1/djqupEgegUkY_320x180.jpg" onerror="this.src='/static/v130/images/blank_320x180.png';this.onerror='';" alt="video image">
+<img class="img-responsive play-overlay" src="/static/v130/images/play-button.png" alt="play">
+<span class="video-views"><i class="far fa-eye"></i> 12.9K</span>
+<span class="video-duration">42:12</span>
+</div>
+</a>
+<div class="video-card-text">
+<p class="video-card-title"><a href="/video/djqupEgegUkY/" class="spa">Gates Foundation Virologist Warns World Of Catastrophic Effects Coming From COVID Vaccine</a></p>
+<p class="video-card-published">1 month, 4 weeks ago</p>
+</div>
+</div>
+<div class="video-card">
+<a href="/video/8i5bwxnTXnsw/" class="spa">
+<div class="video-card-image">
+<img class="img-responsive lazyload" src="/static/v130/images/loading_320x180.png" data-src="https://static-3.bitchute.com/live/cover_images/9c7qJvwx7YQ1/8i5bwxnTXnsw_320x180.jpg" onerror="this.src='/static/v130/images/blank_320x180.png';this.onerror='';" alt="video image">
+<img class="img-responsive play-overlay" src="/static/v130/images/play-button.png" alt="play">
+<span class="video-views"><i class="far fa-eye"></i> 12.5K</span>
+<span class="video-duration">8:46</span>
+</div>
+</a>
+<div class="video-card-text">
+<p class="video-card-title"><a href="/video/8i5bwxnTXnsw/" class="spa">EXCLUSIVE FOOTAGE: The REAL Insurrectionists At The Capitol Exposed</a></p>
+<p class="video-card-published">3 months, 3 weeks ago</p>
+</div>
+</div>
+<div class="video-card">
+<a href="/video/7tryGTes9h6Z/" class="spa">
+<div class="video-card-image">
+<img class="img-responsive lazyload" src="/static/v130/images/loading_320x180.png" data-src="https://static-3.bitchute.com/live/cover_images/9c7qJvwx7YQ1/7tryGTes9h6Z_320x180.jpg" onerror="this.src='/static/v130/images/blank_320x180.png';this.onerror='';" alt="video image">
+<img class="img-responsive play-overlay" src="/static/v130/images/play-button.png" alt="play">
+<span class="video-views"><i class="far fa-eye"></i> 11.2K</span>
+<span class="video-duration">11:15</span>
+</div>
+</a>
+<div class="video-card-text">
+<p class="video-card-title"><a href="/video/7tryGTes9h6Z/" class="spa">Crazy Video: White Supremacist “Proud Boys” Drag People Out Of Cars And Street Fight At Airport!</a></p>
+<p class="video-card-published">3 weeks, 5 days ago</p>
+</div>
+</div>
+<div class="video-card">
+<a href="/video/xLEMI4Ie7IdL/" class="spa">
+<div class="video-card-image">
+<img class="img-responsive lazyload" src="/static/v130/images/loading_320x180.png" data-src="https://static-3.bitchute.com/live/cover_images/9c7qJvwx7YQ1/xLEMI4Ie7IdL_320x180.jpg" onerror="this.src='/static/v130/images/blank_320x180.png';this.onerror='';" alt="video image">
+<img class="img-responsive play-overlay" src="/static/v130/images/play-button.png" alt="play">
+<span class="video-views"><i class="far fa-eye"></i> 10.8K</span>
+<span class="video-duration">3:58</span>
+</div>
+</a>
+<div class="video-card-text">
+<p class="video-card-title"><a href="/video/xLEMI4Ie7IdL/" class="spa">HIGHLIGHTS - Iranian Assassination Threat Forces Trump To Leave Mar-A-Lago Early</a></p>
+<p class="video-card-published">4 months, 2 weeks ago</p>
+</div>
+</div>
+<div class="video-card">
+<a href="/video/yuN5WNIiIZyK/" class="spa">
+<div class="video-card-image">
+<img class="img-responsive lazyload" src="/static/v130/images/loading_320x180.png" data-src="https://static-3.bitchute.com/live/cover_images/9c7qJvwx7YQ1/yuN5WNIiIZyK_320x180.jpg" onerror="this.src='/static/v130/images/blank_320x180.png';this.onerror='';" alt="video image">
+<img class="img-responsive play-overlay" src="/static/v130/images/play-button.png" alt="play">
+<span class="video-views"><i class="far fa-eye"></i> 9732</span>
+<span class="video-duration">6:43</span>
+</div>
+</a>
+<div class="video-card-text">
+<p class="video-card-title"><a href="/video/yuN5WNIiIZyK/" class="spa">MSNBC Suggest Killing Trump Supporters</a></p>
+<p class="video-card-published">3 months, 2 weeks ago</p>
+</div>
+</div>
+<div class="video-card">
+<a href="/video/mz6OG7pEJ8FD/" class="spa">
+<div class="video-card-image">
+<img class="img-responsive lazyload" src="/static/v130/images/loading_320x180.png" data-src="https://static-3.bitchute.com/live/cover_images/9c7qJvwx7YQ1/mz6OG7pEJ8FD_320x180.jpg" onerror="this.src='/static/v130/images/blank_320x180.png';this.onerror='';" alt="video image">
+<img class="img-responsive play-overlay" src="/static/v130/images/play-button.png" alt="play">
+<span class="video-views"><i class="far fa-eye"></i> 9423</span>
+<span class="video-duration">7:05</span>
+</div>
+</a>
+<div class="video-card-text">
+<p class="video-card-title"><a href="/video/mz6OG7pEJ8FD/" class="spa">HIGHLIGHTS - Woman Executed In Capitol Building, Witnesses Speak Out</a></p>
+<p class="video-card-published">4 months, 2 weeks ago</p>
+</div>
+</div>
+<div class="video-card">
+<a href="/video/nISqzuOrFBUv/" class="spa">
+<div class="video-card-image">
+<img class="img-responsive lazyload" src="/static/v130/images/loading_320x180.png" data-src="https://static-3.bitchute.com/live/cover_images/9c7qJvwx7YQ1/nISqzuOrFBUv_320x180.jpg" onerror="this.src='/static/v130/images/blank_320x180.png';this.onerror='';" alt="video image">
+<img class="img-responsive play-overlay" src="/static/v130/images/play-button.png" alt="play">
+<span class="video-views"><i class="far fa-eye"></i> 9204</span>
+<span class="video-duration">2:12:06</span>
+</div>
+</a>
+<div class="video-card-text">
+<p class="video-card-title"><a href="/video/nISqzuOrFBUv/" class="spa">FULL SHOW: Quite Shocking: Pentagon Blocking Biden Administration From Current Operations Intelligen</a></p>
+<p class="video-card-published">4 months ago</p>
+</div>
+</div>
+<div class="video-card">
+<a href="/video/apgJGafaCHJR/" class="spa">
+<div class="video-card-image">
+<img class="img-responsive lazyload" src="/static/v130/images/loading_320x180.png" data-src="https://static-3.bitchute.com/live/cover_images/9c7qJvwx7YQ1/apgJGafaCHJR_320x180.jpg" onerror="this.src='/static/v130/images/blank_320x180.png';this.onerror='';" alt="video image">
+<img class="img-responsive play-overlay" src="/static/v130/images/play-button.png" alt="play">
+<span class="video-views"><i class="far fa-eye"></i> 8870</span>
+<span class="video-duration">5:36</span>
+</div>
+</a>
+<div class="video-card-text">
+<p class="video-card-title"><a href="/video/apgJGafaCHJR/" class="spa">HIGHLIGHTS - US Capitol Is Now The Hunger Games Capitol</a></p>
+<p class="video-card-published">4 months ago</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="tab-pane" id="channel-about">
+<div class="row">
+<div class="col-md-3 col-sm-4 col-xs-12 channel-about-container">
+<img id="fileupload-medium-icon-2" class="img-responsive lazyload hidden-xs hidden-sm" src="/static/v130/images/loading_medium.png" data-src="https://static-3.bitchute.com/live/channel_images/9c7qJvwx7YQ1/KAuARPhFMqFKNDkjeesxrVJS_medium.jpg" onerror="this.src='/static/v130/images/blank_medium.png';this.onerror='';" alt="Channel Image">
+<img id="fileupload-large-icon-2" class="img-responsive lazyload hidden-md hidden-lg" src="/static/v130/images/loading_large.png" data-src="https://static-3.bitchute.com/live/channel_images/9c7qJvwx7YQ1/KAuARPhFMqFKNDkjeesxrVJS_large.jpg" onerror="this.src='/static/v130/images/blank_large.png';this.onerror='';" alt="Channel Image">
+<div class="channel-about-details">
+<p>Created 3 years, 2 months ago.</p>
+<p><span><i class="fas fa-video fa-fw"></i> <span>4212 videos</span></span></p>
+<p><span><i class="fas fa-users fa-fw"></i> <span id="about-subscriber-count"><i class="fas fa-spinner fa-pulse fa-fw"></i></span></span></p>
+<p><span><i class="fas fa-eye fa-fw"></i> <span id="about-view-count"><i class="fas fa-spinner fa-pulse fa-fw"></i></span></span></p>
+<p>Category <span class=""><a href="/category/news/" class="spa">News &amp; Politics</a></span></p>
+</div>
+</div>
+<div id="channel-description" class="col-md-9 col-sm-8 col-xs-12">
+<p>The War Room is the latest extension of Infowars live programming. Hosted by Owen Shroyer and featuring Roger Stone as well as many other powerful guests. The War Room Show is broadcasted out of the Infowars World Headquarters in Austin, Texas, from 3pm-6pm central standard time.</p>
+<p>Subscribestar: <a href="https://www.subscribestar.com/owen-shroyer" rel="nofollow">https://www.subscribestar.com/owen-shroyer</a><br>Support: <a href="https://www.infowarsstore.com" rel="nofollow">https://www.infowarsstore.com</a></p>
+<p>GAB: <a href="https://gab.com/warroomshow" rel="nofollow">https://gab.com/warroomshow</a><br>MINDS: <a href="https://www.minds.com/WarRoomShow/" rel="nofollow">https://www.minds.com/WarRoomShow/</a></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+    $(window).off('scroll.extend').on('scroll.extend', function(event) {if ((window.innerHeight + Math.ceil(window.pageYOffset + 1)) >= document.body.offsetHeight) $('.show-more').click();});
+    $(document).ready(function () {
+        channelResetRefresh();
+        channelRefreshCounts('9c7qJvwx7YQ1', 'warroomshow');
+        if ($('.channel-videos-list').children('.channel-videos-container').length < 25) $('.show-more').addClass('hidden');
+        $('.show-more').click(function(){channelExtend(25, false);});
+        monetizationInit('9c7qJvwx7YQ1');
+        playlistAttachEvents();
+        spaAttachEvents();
+        scrollerAttachEvents();
+        uploadAttachEvents();
+    });
+</script>
+</div>
+<div id="loader-container"><div id="loader"><ul><li></li><li></li><li></li><li></li><li></li><li></li></ul></div></div>
+</div>
+<div id="page-footer" class="container">
+BitChute is a peer-to-peer content sharing platform. Creators are allowed to post content they produce to the platform, so long as they comply with our <a href="https://support.bitchute.com/policy/" target="_blank" rel="noopener noreferrer">policies</a>. The content posted to the platform is not reflective or representative of the views of Bit Chute Limited, its staff or owners. &copy;&nbsp;2017-2021&nbsp;Bit&nbsp;Chute&nbsp;Limited, Box&nbsp;813, Andover&nbsp;House, George&nbsp;Yard, Andover, Hampshire, SP10&nbsp;1PB. United&nbsp;Kingdom. Company&nbsp;number&nbsp;10637289.
+</div>
+<span id="display_id" class="hidden"></span>
+<span class="nav-tabs-list hidden"></span>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-slider/10.0.0/bootstrap-slider.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.17.0/jquery.validate.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jeditable.js/1.7.3/jeditable.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/2.1.3/toastr.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/lazysizes/4.0.1/lazysizes.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.1/clipboard.min.js"></script>
+
+<script type="text/javascript" src="https://cdn.polyfill.io/v2/polyfill.min.js?features=es6,Array.prototype.includes,CustomEvent,Object.entries,Object.values,URL" crossorigin="anonymous"></script>
+<script type="text/javascript" src="/static/v130/js/stream/plyr-min.js"></script>
+<script type="text/javascript" src="/static/v130/js/third-party/jquery.ui.widget.js" defer></script>
+<script type="text/javascript" src="/static/v130/js/third-party/jquery.iframe-transport.js" defer></script>
+<script type="text/javascript" src="/static/v130/js/third-party/jquery.fileupload.js" defer></script>
+<script type="text/javascript" src="/static/v130/js/third-party/fontawesome-all.min.js" defer></script>
+<script type="text/javascript" src="/static/v130/js/third-party/rangetouch.js"></script>
+<script type="text/javascript" src="/static/v130/js/third-party/html-ratio-component.js"></script>
+<script type="text/javascript" src="/static/v130/js/auth.js"></script>
+<script type="text/javascript" src="/static/v130/js/channel.js"></script>
+<script type="text/javascript" src="/static/v130/js/channel-list.js"></script>
+<script type="text/javascript" src="/static/v130/js/common.js"></script>
+<script type="text/javascript" src="/static/v130/js/help-us-grow.js"></script>
+<script type="text/javascript" src="/static/v130/js/listing.js"></script>
+<script type="text/javascript" src="/static/v130/js/membership.js"></script>
+<script type="text/javascript" src="/static/v130/js/flagging.js"></script>
+<script type="text/javascript" src="/static/v130/js/monetization.js"></script>
+<script type="text/javascript" src="/static/v130/js/notification.js"></script>
+<script type="text/javascript" src="/static/v130/js/playlist.js"></script>
+<script type="text/javascript" src="/static/v130/js/search.js"></script>
+<script type="text/javascript" src="/static/v130/js/upload.js"></script>
+<script type="text/javascript" src="/static/v130/js/video.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/p2p-media-loader-core@latest/build/p2p-media-loader-core.min.js" async></script>
+<script type="text/javascript" src="/static/v130/js/stream/p2p-graph.js" async></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.17/d3.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/rickshaw/1.6.3/rickshaw.min.js" async></script>
+<script type="text/javascript"></script>
+<script type="text/javascript">showRegistrationAlert();</script>
+<script type="text/javascript">channelCreateAttach();</script>
+<script type="text/javascript">(function(){window['__CF$cv$params']={r:'6541c5870c8af617',m:'654fa0d9872a832f478196478481e990941fae35-1621809477-1800-AQqDZ63qIuYzD6BpBHo+H+fUFSLX6vWf/obaLdbF3K5657cdSnCKzBahMbvERVMg3yHNDIMMNDoKhWUMlwjTGmz1POkEeFapuGnsJuuQ0IOiukYb4F00TEi3Dms28bsvXIuYOs1EjwH/ijgcSQ7IdBA=',s:[0xc608c6a25f,0xd8a86840bf],}})();</script></body>
+</html>

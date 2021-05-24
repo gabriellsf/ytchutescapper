@@ -1,0 +1,887 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Trump Vows to Return &quot;IMMEDIATELY! If I Wait Our Country Will Be Destroyed!&quot; Q+ Comms Epic RR Delta!</title>
+<meta name="viewport" content="initial-scale=1.0, width=device-width" />
+<link id="canonical" rel="canonical" href="https://www.bitchute.com/video/lrRtsiQJroI7/" />
+
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/js-cookie/2.2.0/js.cookie.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/css-element-queries/1.2.3/ResizeSensor.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/css-element-queries/1.2.3/ElementQueries.min.js"></script>
+<script type="text/javascript" src="/static/v130/js/theme.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.27.0/moment.min.js" integrity="sha512-rmZcZsyhe0/MAjquhTgiUcb4d9knaFc7b5xAfju483gbEXTkeJRUMIPk6s3ySZMYUHEcjKbjLjyddGWMrNEvZg==" crossorigin="anonymous"></script>
+<script type="text/javascript" src="https://commentfreely.bitchute.com/static/comments/js/comments.js"></script>
+<script type="text/javascript" src="https://commentfreely.bitchute.com/static/comments/js/commentactions.js"></script>
+
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-slider/10.0.0/css/bootstrap-slider.css" />
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css" />
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/2.1.3/toastr.min.css" />
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/plyr/3.5.6/plyr.css">
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/rickshaw/1.6.3/rickshaw.min.css">
+<link rel="stylesheet" type="text/css" href="https://commentfreely.bitchute.com/static/comments/css/comments.css" />
+<link rel="stylesheet" type="text/css" href="/static/v130/css/awards.css" />
+<link rel="stylesheet" type="text/css" href="/static/v130/css/common.css" />
+<link rel="stylesheet" type="text/css" href="/static/v130/css/help-us-grow.css">
+<link rel="stylesheet" type="text/css" href="/static/v130/css/membership.css">
+<link rel="stylesheet" type="text/css" href="/static/v130/css/moderation.css">
+<link rel="stylesheet" type="text/css" href="/static/v130/css/monetization.css">
+<link rel="stylesheet" type="text/css" href="/static/v130/css/notification.css">
+<link rel="stylesheet" type="text/css" href="/static/v130/css/playlist.css">
+<link rel="stylesheet" type="text/css" href="/static/v130/css/search.css">
+<link rel="stylesheet" type="text/css" href="/static/v130/css/video.css">
+<link id="css-theme" rel="stylesheet" type="text/css" href="/static/v130/css/theme-default-day.css" />
+<script type="text/javascript">
+    themeInit('/static/v130/','default');
+    if(Cookies.getJSON('preferences') && Cookies.getJSON('preferences').theme=='night') {
+        $('#css-theme').attr('href','/static/v130/css/theme-default-night.css');
+    } else {
+        $('#css-theme').attr('href','/static/v130/css/theme-default-day.css');
+    }
+</script>
+<link rel="apple-touch-icon" sizes="57x57" href="/static/v130/images/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/static/v130/images/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/static/v130/images/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/static/v130/images/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/static/v130/images/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/static/v130/images/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/static/v130/images/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/static/v130/images/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/static/v130/images/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192" href="/static/v130/images/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/static/v130/images/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/static/v130/images/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/static/v130/images/favicon-16x16.png">
+<link rel="manifest" href="/static/v130/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/static/v130/images/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+
+<meta name="description" content="We are the enemy of Big Tech, Big Money and Big Media!
+
+
+Together, let&#x27;s expose the lies of the enemy. Impart a little truth every day. Especially the Truth that Jesus Christ is Lord!
+
+
+Any support you can provide is greatly appreciated. We&#x27;re…" />
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:url" content="https://static-3.bitchute.com/live/cover_images/8XJCp11El6zu/lrRtsiQJroI7_640x360.jpg">
+<meta name="twitter:title" content="Trump Vows to Return &quot;IMMEDIATELY! If I Wait Our Country Will Be Destroyed!&quot; Q+ Comms Epic RR Delta!">
+<meta name="twitter:description" content="We are the enemy of Big Tech, Big Money and Big Media!
+
+
+Together, let&#x27;s expose the lies of the enemy. Impart a little truth every day. Especially the Truth that Jesus Christ is Lord!
+
+
+Any support you can provide is greatly appreciated. We&#x27;re…">
+<meta name="twitter:site" content="@bitchute">
+<meta name="twitter:domain" content="bitchute.com">
+<meta name="twitter:image:src" content="https://static-3.bitchute.com/live/cover_images/8XJCp11El6zu/lrRtsiQJroI7_640x360.jpg">
+<meta name="twitter:image:width" content="640">
+<meta name="twitter:image:height" content="360">
+<meta name="twitter:creator" content="@bitchute">
+<meta property="og:site_name" content="BitChute" />
+<meta property="og:url" content="https://www.bitchute.com/video/lrRtsiQJroI7/" />
+<meta property="og:title" content="Trump Vows to Return &quot;IMMEDIATELY! If I Wait Our Country Will Be Destroyed!&quot; Q+ Comms Epic RR Delta!" />
+<meta property="og:description" content="We are the enemy of Big Tech, Big Money and Big Media!
+
+
+Together, let&#x27;s expose the lies of the enemy. Impart a little truth every day. Especially the Truth that Jesus Christ is Lord!
+
+
+Any support you can provide is greatly appreciated. We&#x27;re…" />
+<meta property="og:image" content="https://static-3.bitchute.com/live/cover_images/8XJCp11El6zu/lrRtsiQJroI7_640x360.jpg" />
+<meta property="og:image:secure_url" content="https://static-3.bitchute.com/live/cover_images/8XJCp11El6zu/lrRtsiQJroI7_640x360.jpg" />
+<meta property="og:image:type" content="image/jpeg" />
+<meta property="og:image:width" content="640" />
+<meta property="og:image:height" content="360" />
+<meta property="og:type" content="video.other" />
+<link id="oembed" rel="alternate" type="application/json+oembed" href="https://www.bitchute.com/oembed/?url=https://www.bitchute.com/video/lrRtsiQJroI7/&amp;format=json">
+
+
+
+<!--[if lt IE 9]>
+<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+<script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+<![endif]-->
+<script async src='/cdn-cgi/bm/cv/669835187/api.js'></script></head>
+<body>
+
+<div id="auth_modal" class="modal fade" role="dialog">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-hidden="true"><i class="fas fa-times fa-fw"></i></button>
+<a href="/"><img class="modal-logo logo-full" src="/static/v130/images/logo-full-day.png" alt="BitChute"></a>
+</div>
+<div class="modal-body">
+<ul class="nav nav-tabs">
+<li class="active" id="auth_login_tab">
+<a data-toggle="tab" href="#auth_login">Login</a>
+</li>
+<li id="auth_reset_tab">
+<a data-toggle="tab" href="#auth_reset">Password Reset</a>
+</li>
+</ul>
+<div class="tab-content">
+<div class="tab-pane active" id="auth_login" data-target="/accounts/login/">
+<form method="post" id="auth_login_form">
+<input type="hidden" name="csrfmiddlewaretoken" value="N43SCEDqlw0geMExPe5SRyUJJaEE9lSsBO2XTUESNcyhP3yu2z1X0GIed57FwVX7">
+<div class="alert alert-danger hidden" id="auth_login_error"></div>
+<div class="form-group">
+<label>Username or Email Address</label>
+<div class="alert alert-danger hidden" id="auth_login_error_username"></div>
+<input type="text" name="username" class="form-control" autocomplete="username" maxlength="150" required id="id_username">
+</div>
+<div class="form-group">
+<label>Password</label>
+<div class="alert alert-danger hidden" id="auth_login_error_password"></div>
+<input type="password" name="password" class="form-control" autocomplete="off" maxlength="50" required id="id_password">
+</div>
+<div class="form-group hidden" id="auth_login_one_time_code">
+<label>One Time Code</label>
+<div class="alert alert-danger hidden" id="auth_login_error_one_time_code"></div>
+<input type="Search" name="one_time_code" class="form-control" autocomplete="one-time-code" maxlength="6" id="id_one_time_code">
+<p class="help">To complete the login process, please enter the one time code that was sent to your email address.</p>
+</div>
+</form>
+<p>Don't have an account? Create one <a href="/accounts/register/">here</a>.</p>
+</div>
+<div class="tab-pane" id="auth_reset" data-target="/accounts/reset/">
+<form method="post" id="auth_reset_form">
+<input type="hidden" name="csrfmiddlewaretoken" value="N43SCEDqlw0geMExPe5SRyUJJaEE9lSsBO2XTUESNcyhP3yu2z1X0GIed57FwVX7">
+<div class="alert alert-danger hidden" id="auth_reset_error"></div>
+<label>Email Address</label>
+<div class="alert alert-danger hidden" id="auth_reset_error_email"></div>
+<input type="email" name="email" class="form-control" autocomplete="email" placeholder="email@example.com" maxlength="254" required id="id_email">
+<p class="help">Please provide the email address associated with your account to receive the password reset instructions.</p>
+</form>
+</div>
+</div>
+</div>
+<div class="modal-footer">
+<button type="button" class="btn btn-danger" id="auth_submit"><i class="fas fa-check fa-fw"></i> Submit</button>
+<button type="button" class="btn btn-default" data-dismiss="modal"><i class="fas fa-times fa-fw"></i> Cancel</button>
+</div>
+</div>
+</div>
+</div>
+
+
+<div id="error_modal" class="modal fade" role="dialog">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-hidden="true"><i class="fas fa-times fa-fw"></i></button>
+<a href="/"><img class="modal-logo logo-full" src="/static/v130/images/logo-full-day.png" alt="BitChute"></a>
+</div>
+<div class="modal-body text-center">
+<p>An error has occurred whilst processing your request!</p>
+<img class="ninja img-responsive hidden-xs hidden-sm" src="/static/v130/images/ninja_stance.png" alt="Ninja">
+<p>If the issue persists, then please contact us at <a href="/cdn-cgi/l/email-protection#7e0d0b0e0e110c0a3e1c170a1d160b0a1b501d1113"><span class="__cf_email__" data-cfemail="9be8eeebebf4e9efdbf9f2eff8f3eeeffeb5f8f4f6">[email&#160;protected]</span></a>.</p>
+</div>
+<div class="modal-footer">
+<button type="button" class="btn btn-default" data-dismiss="modal"><i class="fas fa-times fa-fw"></i> Close</button>
+</div>
+</div>
+</div>
+</div>
+
+
+<div id="alert-signup" class="text-center hidden">
+<span class="close" onclick="hideRegistrationAlert();regcookie.dismiss();" aria-label="Close"><i class="fas fa-times fa-fw"></i></span>
+<p>For a better BitChute user experience,<br><a onclick="authShowModal('#');">Login</a> or <a href="/accounts/register/">Register</a> now!</p>
+</div>
+
+
+<nav id="nav-menu" class="transparent">
+<div id="nav-top-menu">
+<div class="menu-left-container">
+<div class="logo">
+<a href="/" class="spa">
+<img class="logo-full hidden-xs" src="/static/v130/images/logo-full-day.png" alt="BitChute">
+<img class="logo-icon hidden-sm hidden-md hidden-lg hidden-xl" src="/static/v130/images/logo-icon-day.png" alt="BitChute">
+</a>
+</div>
+<div class="search-box hidden-xs">
+<form method="get" action="/search/">
+<input type="text" name="query" maxlength="255" class="form-control search-text" placeholder="Search&hellip;" />
+<button type="submit" class="search-icon"><i class="fas fa-search"></i></button>
+</form>
+</div>
+</div>
+<div class="menu-right-container">
+<div class="user-link help-us-grow">
+<a href="/help-us-grow/" class="spa" data-toggle="tooltip" data-placement="bottom" title="Help Us Grow"><i class="fas fa-donate fa-2x"></i></a>
+</div>
+<div id="day-theme" class="user-link hidden"><a onclick="themeDayMode();" data-toggle="tooltip" data-placement="bottom" title="Switch to Day Mode"><i class="fas fa-sun fa-2x"></i></a></div>
+<div id="night-theme" class="user-link hidden"><a onclick="themeNightMode();" data-toggle="tooltip" data-placement="bottom" title="Switch to Night Mode"><i class="fas fa-moon fa-2x"></i></a></div>
+<div class="unauth-link">
+<span><a onclick="authShowModal('#');">Login</a> <strong>/</strong> <a href="/accounts/register/">Register</a></span>
+</div>
+</div>
+</div>
+<div id="nav-side-menu">
+<a class="side-toggle" onclick="toggleSideMenu();">
+<i class="side-menu-hidden fas fa-bars fa-fw"></i>
+<i class="side-menu-visible fas fa-times fa-fw hidden"></i>
+</a>
+<div class="search-box">
+<form method="get" action="/search/">
+<input type="text" name="query" maxlength="255" class="form-control search-text" placeholder="Search&hellip;" />
+<button type="submit" class="search-icon"><i class="fas fa-search"></i></button>
+</form>
+</div>
+<div class="side-content">
+<p class="side-heading">Categories</p>
+ <ul class="side-list list-unstyled">
+<li><a href="/category/animation/" class="spa"><i class="fal fa-chevron-double-right fa-xs"></i> Anime &amp; Animation</a></li>
+<li><a href="/category/arts/" class="spa"><i class="fal fa-chevron-double-right fa-xs"></i> Arts &amp; Literature</a></li>
+<li><a href="/category/vehicles/" class="spa"><i class="fal fa-chevron-double-right fa-xs"></i> Auto &amp; Vehicles</a></li>
+<li><a href="/category/beauty/" class="spa"><i class="fal fa-chevron-double-right fa-xs"></i> Beauty &amp; Fashion</a></li>
+<li><a href="/category/finance/" class="spa"><i class="fal fa-chevron-double-right fa-xs"></i> Business &amp; Finance</a></li>
+<li><a href="/category/cuisine/" class="spa"><i class="fal fa-chevron-double-right fa-xs"></i> Cuisine</a></li>
+<li><a href="/category/diy/" class="spa"><i class="fal fa-chevron-double-right fa-xs"></i> DIY &amp; Gardening</a></li>
+<li><a href="/category/education/" class="spa"><i class="fal fa-chevron-double-right fa-xs"></i> Education</a></li>
+<li><a href="/category/entertainment/" class="spa"><i class="fal fa-chevron-double-right fa-xs"></i> Entertainment</a></li>
+<li><a href="/category/gaming/" class="spa"><i class="fal fa-chevron-double-right fa-xs"></i> Gaming</a></li>
+<li><a href="/category/health/" class="spa"><i class="fal fa-chevron-double-right fa-xs"></i> Health &amp; Medical</a></li>
+<li><a href="/category/music/" class="spa"><i class="fal fa-chevron-double-right fa-xs"></i> Music</a></li>
+<li><a href="/category/news/" class="spa"><i class="fal fa-chevron-double-right fa-xs"></i> News &amp; Politics</a></li>
+<li><a href="/category/family/" class="spa"><i class="fal fa-chevron-double-right fa-xs"></i> People &amp; Family</a></li>
+<li><a href="/category/animals/" class="spa"><i class="fal fa-chevron-double-right fa-xs"></i> Pets &amp; Wildlife</a></li>
+<li><a href="/category/science/" class="spa"><i class="fal fa-chevron-double-right fa-xs"></i> Science &amp; Technology</a></li>
+<li><a href="/category/spirituality/" class="spa"><i class="fal fa-chevron-double-right fa-xs"></i> Spirituality &amp; Faith</a></li>
+<li><a href="/category/sport/" class="spa"><i class="fal fa-chevron-double-right fa-xs"></i> Sports &amp; Fitness</a></li>
+<li><a href="/category/travel/" class="spa"><i class="fal fa-chevron-double-right fa-xs"></i> Travel</a></li>
+<li><a href="/category/vlogging/" class="spa"><i class="fal fa-chevron-double-right fa-xs"></i> Vlogging</a></li>
+</ul>
+<a href="https://support.bitchute.com/policy/" target="_blank" rel="noopener noreferrer"><p class="side-heading">Policies</p></a>
+<ul class="side-list list-unstyled">
+<li><a href="https://support.bitchute.com/policy/guidelines/" target="_blank" rel="noopener noreferrer"><i class="fal fa-chevron-double-right fa-xs"></i> Community Guidelines</a></li>
+<li><a href="https://support.bitchute.com/policy/terms/" target="_blank" rel="noopener noreferrer"><i class="fal fa-chevron-double-right fa-xs"></i> Terms & Conditions</a></li>
+<li><a href="https://support.bitchute.com/policy/privacy/" target="_blank" rel="noopener noreferrer"><i class="fal fa-chevron-double-right fa-xs"></i> Privacy Policy</a></li>
+<li><a href="https://support.bitchute.com/policy/cookie/" target="_blank" rel="noopener noreferrer"><i class="fal fa-chevron-double-right fa-xs"></i> Cookie Policy</a></li>
+<li><a href="https://support.bitchute.com/policy/contact/" target="_blank" rel="noopener noreferrer"><i class="fal fa-chevron-double-right fa-xs"></i> Contact Us</a></li>
+</ul>
+<a href="https://support.bitchute.com/" target="_blank" rel="noopener noreferrer"><p class="side-heading">Support</p></a>
+<ul class="side-list list-unstyled">
+<li><a href="https://support.bitchute.com/" target="_blank" rel="noopener noreferrer"><i class="fal fa-chevron-double-right fa-xs"></i> Knowledge Base</a></li>
+<li><a href="https://status.bitchute.com/" target="_blank" rel="noopener noreferrer"><i class="fal fa-chevron-double-right fa-xs"></i> Service Status</a></li>
+</ul>
+</div>
+<div class="copyright">&copy;&nbsp;2017-2021&nbsp;Bit&nbsp;Chute&nbsp;Limited</div>
+</div>
+</nav>
+<div id="nav-menu-buffer"></div>
+
+<div id="wrapper">
+<div id="main-content" class="transparent">
+
+<div id="confirm-modal" class="modal fade" role="dialog">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-hidden="true"><i class="fas fa-times fa-fw"></i></button>
+<a href="/"><img class="modal-logo logo-full" src="/static/v130/images/logo-full-day.png" alt="BitChute"></a>
+</div>
+<div class="modal-body">
+<p>You are about to <span id="confirm-modal-action" class="text-lowercase">action</span>:</p>
+<p><strong id="confirm-modal-detail" class="text-uppercase">Object being modified by the action</strong></p>
+<p>Do you want to proceed?</p>
+</div>
+<div class="modal-footer">
+<button type="button" class="btn btn-danger" onclick="execConfirmModal();">
+<i class="fas fa-check fa-fw"></i> <span id="confirm-modal-button" class="text-capitalize">Action</span>
+</button>
+<button type="button" class="btn btn-default" data-dismiss="modal"><i class="fas fa-times fa-fw"></i> Cancel</button>
+</div>
+</div>
+</div>
+</div>
+
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript">
+    var confirmcallback;
+    var confirmcallbackargs;
+
+    function execConfirmModal() {
+        $('#confirm-modal').modal('hide');
+        confirmcallback.apply(this,confirmcallbackargs);
+    }
+
+    function showConfirmModal(action,detail,callback,args) {
+        confirmcallback=callback;
+        confirmcallbackargs=args;
+        $('#confirm-modal-detail').html(detail);
+        $('#confirm-modal-action').text(action);
+        $('#confirm-modal-button').text(action);
+        $('#confirm-modal').modal('show');
+    }
+</script>
+
+<div id="share-modal" class="modal fade" role="dialog">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-hidden="true"><i class="fas fa-times fa-fw"></i></button>
+<a href="/"><img class="modal-logo logo-full" src="/static/v130/images/logo-full-day.png" alt="BitChute"></a>
+</div>
+<div class="modal-body">
+<div class="form-group">
+<label>Share Video Link</label>
+<div id="share-modal-share" class="form-control video-share-details">https://www.bitchute.com/video/lrRtsiQJroI7/</div>
+<button type="button" class="btn btn-danger btn-clipboard" data-clipboard-target="#share-modal-share"><i class="fas fa-clipboard fa-fw"></i> Copy to clipboard</button>
+</div>
+<div class="form-group">
+<label>Embed Video HTML</label>
+<div id="share-modal-embed" class="form-control video-share-details">&lt;iframe width="640" height="360" scrolling="no" frameborder="0" style="border: none;" src="https://www.bitchute.com/embed/lrRtsiQJroI7/"&gt;&lt;/iframe&gt;</div>
+<button type="button" class="btn btn-danger btn-clipboard" data-clipboard-target="#share-modal-embed"><i class="fas fa-clipboard fa-fw"></i> Copy to clipboard</button>
+</div>
+</div>
+<div class="modal-footer">
+<button type="button" class="btn btn-default" data-dismiss="modal"><i class="fas fa-times fa-fw"></i> Close</button>
+</div>
+</div>
+</div>
+</div>
+
+<script type="text/javascript">
+    function showShareModal() {
+        clipboardInit('.btn-clipboard');
+        $('#share-modal').modal('show');
+    }
+</script>
+
+<div id="moderation-report-modal" class="modal fade" role="dialog">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-hidden="true"><i class="fas fa-times fa-fw"></i></button>
+<a href="/"><img class="modal-logo logo-full" src="/static/v130/images/logo-full-day.png" alt="BitChute"></a>
+</div>
+<span id="moderation-report-body">
+<div class="modal-body">
+<h3>Request Moderation</h3>
+<form method="post" id="moderation-report-form">
+<div class="alert alert-danger hidden" id="moderation-report-error"></div>
+<input type="hidden" name="report_contenttype" disabled id="id_report_contenttype">
+<input type="hidden" name="report_identifier" disabled id="id_report_identifier">
+<div class="form-group">
+<label>Reason</label>
+<div class="alert alert-danger hidden" id="moderation-report-error-reason"></div>
+<select name="report_reason" class="form-control" id="id_report_reason">
+<option value="Select reason">Select reason</option>
+<option value="Abhorrent Violence">Abhorrent Violence</option>
+<option value="Animal Cruelty">Animal Cruelty</option>
+<option value="Child Abuse">Child Abuse</option>
+<option value="Harassment">Harassment</option>
+<option value="Harmful Activities">Harmful Activities</option>
+<option value="Incitement to Hatred">Incitement to Hatred</option>
+<option value="Sexually Explicit">Sexually Explicit</option>
+<option value="Terrorism &amp; Violent Extremism">Terrorism &amp; Violent Extremism</option>
+<option value="Threats or Incitement to Violence">Threats or Incitement to Violence</option>
+<option value="Illegal in my country">Illegal in my country</option>
+<option value="Copyright">Copyright</option>
+<option value="Incorrect Category">Incorrect Category</option>
+<option value="Incorrect Sensitivity">Incorrect Sensitivity</option>
+<option value="Dogpiling or Brigading">Dogpiling or Brigading</option>
+<option value="Misleading Metadata">Misleading Metadata</option>
+<option value="Other Platform Misuse">Other Platform Misuse</option>
+</select>
+<p class="help">Please select the most appropriate reason from the list provided.</p>
+<p><strong>Note: </strong>For more detailed descriptions of each reason, please see our <a href="https://support.bitchute.com/policy/guidelines/" target="_blank" rel="noopener noreferrer">Community Guidelines</a>.</p>
+</div>
+<div class="form-group">
+<label>Additional Comments</label>
+<div class="alert alert-danger hidden" id="moderation-report-error-comments"></div>
+<textarea name="report_comments" cols="40" rows="4" class="form-control" style="resize:vertical" maxlength="2000" required id="id_report_comments"></textarea>
+<p class="help">Please add any additonal comments that will help with the assessment of your moderation report request.</p>
+<p><strong>Note: </strong>Copyright claims must contain the items specified within the <a href="https://support.bitchute.com/policy/copyright/" target="_blank" rel="noopener noreferrer">Copyright Policy</a>.</p>
+</div>
+</form>
+</div>
+<div class="modal-footer">
+<button type="button" class="btn btn-danger" id="moderation-report-submit"><i class="fas fa-paper-plane fa-fw"></i> Submit</button>
+<button type="button" class="btn btn-default" data-dismiss="modal"><i class="fas fa-times fa-fw"></i> Cancel</button>
+</div>
+</span>
+<span id="moderation-report-thanks" class="hidden">
+<div class="modal-body text-center">
+<h4 class="pb10">Thank you for submitting your moderation report</h4>
+<p>We will investigate and notify you of the outcome. Please monitor the mailbox associated with your account, in case we request additional information.</p>
+</div>
+<div class="modal-footer">
+<button type="button" class="btn btn-default" data-dismiss="modal"><i class="fas fa-times fa-fw"></i> Close</button>
+</div>
+</span>
+</div>
+</div>
+</div>
+<script type="text/javascript">$(document).ready(function(){moderationModalAttachEvents('report')});</script>
+
+
+<div class="modal fade playlist-modal" role="dialog">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-hidden="true"><i class="fas fa-times fa-fw"></i></button>
+<a href="/" class="spa"><img class="modal-logo logo-full" src="/static/v130/images/logo-full-day.png" alt="BitChute"></a>
+</div>
+<div class="modal-body">
+<div class="form-group">
+<div class="create-playlist-entry-error alert alert-danger hidden"></div>
+<label>Add to Playlist</label>
+<span class="options"></span>
+</div>
+<div class="create-playlist-error alert alert-danger hidden"></div>
+<div class="form-group">
+<form method="post" id="create-playlist-form">
+<input type="hidden" name="csrfmiddlewaretoken" value="XSDMs8xuwEPoEBUNPW2FPkYiNWmwla0CLCCRJoyWYknpfSOK2hYKYsMNhRPxIK5h">
+<label></label>
+<div class="create-playlist-error-playlist alert alert-danger hidden"></div>
+<div class="name">
+<span class="toolbox-button create" data-video="lrRtsiQJroI7" data-toggle="tooltip" data-placement="bottom" title="Create Playlist">
+<span class="fa-layers"><i class="fal fa-square"></i><i class="far fa-plus" data-fa-transform="shrink-7"></i></span>
+</span>
+</div>
+<p class="help"></p>
+</form>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="container">
+<div id="page-bar" class="row">
+<div class="col-xs-12">
+<h1 id="video-title" class="page-title">Trump Vows to Return &quot;IMMEDIATELY! If I Wait Our Country Will Be Destroyed!&quot; Q+ Comms Epic RR Delta!</h1>
+</div>
+</div>
+<div id="page-detail" class="row">
+<div class="col-xs-12">
+<div class="tab-scroll-outer">
+<div class="tab-scroll-inner">
+<ul class="nav nav-tabs nav-tabs-list">
+<li class="active"><a data-toggle="tab" href="#video-watch">Watch</a></li>
+</ul>
+</div>
+<div class="tab-scroll-left"><i class="fas fa-chevron-left"></i></div>
+<div class="tab-scroll-right"><i class="fas fa-chevron-right"></i></div>
+</div>
+<div class="tab-content">
+<div class="tab-pane active" id="video-watch">
+<div class="row">
+<div class="col-xs-12 col-sm-8 col-md-9 video-container">
+<div class="row">
+<div class="col-xs-12">
+<div class="wrapper">
+<video id="player" ratio="16x9" width="100%" poster="https://static-3.bitchute.com/live/cover_images/8XJCp11El6zu/lrRtsiQJroI7_640x360.jpg" onplay="$('#loader-container').fadeOut('slow');" controls>
+<source src="https://seed125.bitchute.com/8XJCp11El6zu/lrRtsiQJroI7.mp4" type="video/mp4" />
+</video>
+<div id="autoplay-details" class="hidden">
+<div class="title">Next video playing soon</div>
+<div class="timer"><div class="spinner"><div class="pie"></div></div><div class="filler pie"></div><div class="mask"></div></div>
+<div class="dismiss">Click to cancel</div>
+</div>
+<div id="autoplay-paused" class="hidden">
+<div class="title">Autoplay has been paused</div>
+<div class="icon"><i class="fas fa-play"></i></div>
+<div class="continue">Click to watch next video</div>
+</div>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="col-xs-12">
+<div class="video-information">
+<div class="row">
+<div class="col-sm-6 col-xs-12">
+<div class="video-statistics">
+<i class="far fa-eye fa-fw"></i><span id="video-view-count"><i class="fas fa-spinner fa-pulse fa-fw"></i></span>
+<a id="video-like" class="video-like" onclick="authShowModal('/video/lrRtsiQJroI7/');" data-toggle="tooltip" data-placement="bottom" title="I like this">
+<i class="action-icon far fa-thumbs-up fa-fw"></i>
+<span id="video-like-count"><i class="fas fa-spinner fa-pulse fa-fw"></i></span>
+</a>
+<a id="video-dislike" class="video-dislike" onclick="authShowModal('/video/lrRtsiQJroI7/');" data-toggle="tooltip" data-placement="bottom" title="I dislike this">
+<i class="action-icon far fa-thumbs-down fa-fw"></i>
+<span id="video-dislike-count"><i class="fas fa-spinner fa-pulse fa-fw"></i></span>
+</a>
+</div>
+</div>
+<div class="col-sm-6 col-xs-12">
+<div class="video-actions">
+<div class="action-list text-right">
+<a onclick="authShowModal('/video/lrRtsiQJroI7/');" data-toggle="tooltip" data-placement="bottom" title="Favorites"><i class="action-icon fas fa-star fa-fw"></i></a>
+<a onclick="authShowModal('/video/lrRtsiQJroI7/');" data-toggle="tooltip" data-placement="bottom" title="Watch Later"><i class="action-icon fas fa-clock fa-fw"></i></a>
+<a onclick="authShowModal('/video/lrRtsiQJroI7/');" data-toggle="tooltip" data-placement="bottom" title="Add to Playlist"><i class="action-icon fas fa-list fa-fw"></i></a>
+<a onclick="authShowModal('/video/lrRtsiQJroI7/');" data-toggle="tooltip" data-placement="bottom" title="Flag Video"><i class="action-icon fas fa-flag fa-fw"></i></a>
+<a class="sharing-drop" data-toggle="tooltip" data-placement="bottom" title="Share"><i class="action-icon fas fa-share-alt fa-fw"></i></a>
+</div>
+<div class="sharing-bar text-right">
+<a href="https://www.facebook.com/sharer/sharer.php?u=https%3A//www.bitchute.com/video/lrRtsiQJroI7/" target="_blank" rel="noopener noreferrer" aria-label="Share on Facebook" data-toggle="tooltip" data-placement="bottom" title="Share on Facebook"><i class="action-icon fab fa-facebook fa-fw"></i></a>
+<a href="https://twitter.com/share?text=Trump%20Vows%20to%20Return%20%22IMMEDIATELY%21%20If%20I%20Wait%20Our%20Country%20Will%20Be%20Destroyed%21%22%20Q%2B%20Comms%20Epic%20RR%20Delta%21&url=https://chute.rocks/lrRtsiQJroI7&via=BitChute" target="_blank" rel="noopener noreferrer" aria-label="Share on Twitter" data-toggle="tooltip" data-placement="bottom" title="Share on Twitter"><i class="action-icon fab fa-twitter fa-fw"></i></a>
+<a href="https://reddit.com/submit?url=https://chute.rocks/lrRtsiQJroI7&title=Trump%20Vows%20to%20Return%20%22IMMEDIATELY%21%20If%20I%20Wait%20Our%20Country%20Will%20Be%20Destroyed%21%22%20Q%2B%20Comms%20Epic%20RR%20Delta%21" target="_blank" rel="noopener noreferrer" aria-label="Share on Reddit" data-toggle="tooltip" data-placement="bottom" title="Share on Reddit"><i class="action-icon fab fa-reddit fa-fw"></i></a>
+<a href="https://gab.com/compose?url=https%3A//www.bitchute.com/video/lrRtsiQJroI7/" target="_blank" rel="noopener noreferrer" aria-label="Share on Gab" data-toggle="tooltip" data-placement="bottom" title="Share on Gab"><i class="action-icon fas fa-frog fa-fw"></i></a>
+<a href="javascript:showShareModal();" aria-label="Share via Clipboard" data-toggle="tooltip" data-placement="bottom" title="Share via Clipboard"><i class="action-icon fas fa-clipboard fa-fw"></i></a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="col-xs-12">
+<div class="video-publish-date">
+First published at 23:30 UTC on May 22nd, 2021.
+</div>
+<span id="video-hashtags" class="tags">
+<ul class="list-inline list-unstyled">
+<li><a href="/hashtag/americasaudit/" class="spa">#americasaudit</a></li>
+<li><a href="/hashtag/trump/" class="spa">#trump</a></li>
+<li><a href="/hashtag/qanon/" class="spa">#qanon</a></li>
+</ul>
+</span>
+<div class="channel-banner">
+<div class="backdrop"></div>
+<div class="image-container">
+<a href="/channel/christianpatriotnews/" class="spa">
+<img class="image lazyload" src="/static/v130/images/loading_small.png" data-src="/static/v130/images/blank_small.png" alt="channel image">
+</a>
+</div>
+<div class="details">
+<p class="name"><a href="/channel/christianpatriotnews/" class="spa">ChristianPatriotNews</a></p>
+<p class="owner"><a href="/profile/z36BVK4iLF1z/" class="spa">ChristianPatriotNews</a></p>
+<p class="subscribers"><i class="fas fa-users fa-fw"></i> <span id="subscriber_count"><i class="fas fa-spinner fa-pulse"></i></span> subscribers</p>
+</div>
+<div class="actions">
+<div class="subscriber margins">
+<span class="creator-monetization" data-toggle="tooltip" data-placement="bottom" title="Tip or Pledge">
+<i class="action-icon fas fa-usd-circle fa-fw fa-lg remove faa-vertical animated hidden" id="on-usd-id" data-fa-transform="down-1"></i>
+<i class="action-icon fas fa-usd-circle fa-fw fa-lg" id="off-usd-id" data-fa-transform="down-1"></i>
+</span>
+<button class="btn btn-danger" onclick="authShowModal('');">Subscribe</button>
+<span class="notify-button" onclick="authShowModal('');"><i class="fas fa-bell-slash fa-fw fa-lg"></i></span>
+</div>
+</div>
+</div>
+<div id="video-description" class="video-detail-text">
+<div class="teaser"><p>We are the enemy of Big Tech, Big Money and Big Media!</p>
+<p>Together, let&#x27;s expose the lies of the enemy. Impart a little truth every day. Especially the Truth that Jesus Christ is Lord!</p>
+<p>Any support you can provide is greatly appreciated. We&#x27;…</p></div>
+<span class="more"><i class="fal fa-plus-square fa-fw" data-fa-transform="up-0.5"></i> MORE</span>
+<div class="full hidden"><p>We are the enemy of Big Tech, Big Money and Big Media!</p>
+<p>Together, let&#x27;s expose the lies of the enemy. Impart a little truth every day. Especially the Truth that Jesus Christ is Lord!</p>
+<p>Any support you can provide is greatly appreciated. We&#x27;re in this together. Together WE WILL WIN! Please support the fight.</p>
+<p>GO FUND ME PAGE *U.S. PLUS INTERNATIONAL*</p>
+<p><a href="https://www.gofundme.com/christian-patriot-news" rel="nofollow">https://www.gofundme.com/christian-patriot-news</a></p>
+<p>Sign up for Cash App using my code and you’ll get $5 FREE.</p>
+<p>Cash App Cash Tag: $ChristianPatriot</p>
+<p>Here&#x27;s a link...</p>
+<p><a href="https://cash.app/app/QLNZCXH" rel="nofollow">https://cash.app/app/QLNZCXH</a></p>
+<p>Already have Cash App? Here&#x27;s my Cash App Link:</p>
+<p><a href="https://cash.app/$ChristianPatriot" rel="nofollow">https://cash.app/$ChristianPatriot</a></p>
+<p>NOW YOU CAN BUY ME A COFFEE! *U.S. PLUS INTERNATIONAL*</p>
+<p><a href="https://www.buymeacoffee.com/ChristianTruth" rel="nofollow">https://www.buymeacoffee.com/ChristianTruth</a></p>
+<p>Today&#x27;s Extra Special Opportunity FREE FOR EVERYONE!</p>
+<p>Q+ Trump: The Art of The Decode! Q Comms 101 Learn The Basics of Q Proofs, Deltas, Timestamps, Phrases and Why Misspellings Matter!</p>
+<p>Welcome to Q Decodes Basics 101. These exceptional Q Decode Videos are arranged in chronological order, beginning in early April, 2021 and updated through yesterday. Each individual video walks you through the Basics of decoding and understanding Q drops/posts. You will learn how time stamps on video clips, tweets and posts are potential clues. Such clues often lead to much, much more in the hands of an experienced Anon. Find out how President Donald J. Trump, Dan Scavino, Mike Pompeo, General Mike Flynn and Lin Wood are on the top of my list as those most likely working with Q, or even members of the actual Q Team.</p>
+<p><a href="https://beforeitsnews.com/alternative/2021/05/q-trump-the-art-of-the-decode-q-comms-101-learn-the-basics-of-q-proofs-deltas-timestamps-phrases-and-why-misspellings-matter-3750710.html" rel="nofollow">https://beforeitsnews.com/alternative/2021/05/q-trump-the-art-of-the-decode-q-comms-101-learn-the-basics-of-q-proofs-deltas-timestamps-phrases-and-why-misspellings-matter-3750710.html</a> </p>
+<p>Previous Updates:</p>
+<p>Trump Is Still President 100% Q Proof USA Is At War! Martial Law Insurrection Act Military Tribunals Coming!</p>
+<p><a href="https://rumble.com/vhe7mn-trump-is-still-president-100-q-proof-usa-is-at-war-martial-law-insurrection.html" rel="nofollow">https://rumble.com/vhe7mn-trump-is-still-president-100-q-proof-usa-is-at-war-martial-law-insurrection.html</a></p>
+<p>Trump Fires Back Against [DS] Fake News! Q&#x27;s 4 Big BQQMS are AZ, GA, PA, MI! One Falls They All Fall</p>
+<p><a href="https://rumble.com/vhc8gr-trump-fires-back-against-ds-fake-news-qs-4-big-bqqms-are-az-ga-pa-mi-one-fa.html" rel="nofollow">https://rumble.com/vhc8gr-trump-fires-back-against-ds-fake-news-qs-4-big-bqqms-are-az-ga-pa-mi-one-fa.html</a></p>
+<p>Trump INDICTMENT Coming? The Deep State Strikes Back! NY GA Prosecutors Threaten PRISON!</p>
+<p><a href="https://rumble.com/vh9c0j-trump-indictment-coming-the-deep-state-strikes-back-ny-ga-prosecutors-threa.html" rel="nofollow">https://rumble.com/vh9c0j-trump-indictment-coming-the-deep-state-strikes-back-ny-ga-prosecutors-threa.html</a></p>
+<p>Q+ TRUMP, LIN WOOD, DREW MCKISSICK &amp; THE SCGOP RACE! WHAT HAPPENED? WHAT&#x27;S NEXT? AND WHO NEEDS LUCK?</p>
+<p><a href="https://rumble.com/vh75sn-q-trump-lin-wood-drew-mckissick-and-the-scgop-race-what-happened-whats-next.html" rel="nofollow">https://rumble.com/vh75sn-q-trump-lin-wood-drew-mckissick-and-the-scgop-race-what-happened-whats-next.html</a></p>
+<p>Q is Truth 100% Proof EPIC 3-Year Delta! Trump is Still President! Dan Scavino Comms! Military Court</p>
+<p><a href="https://rumble.com/vh4q35-q-is-truth-100-proof-epic-3-year-delta-trump-is-still-president-dan-scavino.html" rel="nofollow">https://rumble.com/vh4q35-q-is-truth-100-proof-epic-3-year-delta-trump-is-still-president-dan-scavino.html</a></p>
+<p>Trump&#x27;s June Return! New American Republic! No Income Tax! Insurrection FEMA Elections Gold Standard</p>
+<p><a href="https://rumble.com/vh1w11-trumps-june-return-new-american-republic-no-income-tax-insurrection-fema-el.html" rel="nofollow">https://rumble.com/vh1w11-trumps-june-return-new-american-republic-no-income-tax-insurrection-fema-el.html</a></p>
+<p>Q: Suicide Weekend! Those Who Are The Loudest! Trump Drops Bomb on AZ Audit! MI NH GA WI PA NV Next!</p>
+<p><a href="https://rumble.com/vh03kf-q-suicide-weekend-those-who-are-the-loudest-trump-drops-bomb-on-az-audit-mi.html" rel="nofollow">https://rumble.com/vh03kf-q-suicide-weekend-those-who-are-the-loudest-trump-drops-bomb-on-az-audit-mi.html</a></p>
+<p>Its Going To Be Biblical! Digital Soldiers Enlisted in God&#x27;s Army! Overcomers &amp; More Than Conquerors</p>
+<p><a href="https://rumble.com/vgzws7-its-going-to-be-biblical-digital-soldiers-enlisted-in-gods-army-overcomers-.html" rel="nofollow">https://rumble.com/vgzws7-its-going-to-be-biblical-digital-soldiers-enlisted-in-gods-army-overcomers-.html</a></p>
+<p>Obama Biden Clinton to Face FIRING SQUAD Treasonous Pedos! Trump U.S. CORP Bankruptcy + New Republic</p>
+<p><a href="https://rumble.com/vgujod-obama-biden-clinton-to-face-firing-squad-treasonous-pedos-trump-u.s.-corp-b.html" rel="nofollow">https://rumble.com/vgujod-obama-biden-clinton-to-face-firing-squad-treasonous-pedos-trump-u.s.-corp-b.html</a></p>
+<p>Mike Lindell Shocking Surprise for Dominion! Q: A Week to Remember! Deep State Hussein HRC DC PANIC!</p>
+<p><a href="https://rumble.com/vgs5bp-mike-lindell-shocking-surprise-for-dominion-q-a-week-to-remember-deep-state.html" rel="nofollow">https://rumble.com/vgs5bp-mike-lindell-shocking-surprise-for-dominion-q-a-week-to-remember-deep-state.html</a></p>
+<p>30,000 U.S. Vaccine Deaths! 115,000 Injured! Vax &quot;Shedding&quot; Super Spreading Depopulation Bioweapons!</p>
+<p><a href="https://rumble.com/vgqjal-30000-u.s.-vaccine-deaths-115000-injured-vax-shedding-super-spreading-depop.html" rel="nofollow">https://rumble.com/vgqjal-30000-u.s.-vaccine-deaths-115000-injured-vax-shedding-super-spreading-depop.html</a></p>
+<p>Q+ Trump [D] Party Death Spiral! Trump Caught Dem All! Military Intelligence SCIF WW Sting Operation</p>
+<p><a href="https://rumble.com/vgp5cj-q-trump-d-party-death-spiral-trump-caught-dem-all-military-intelligence-sci.html" rel="nofollow">https://rumble.com/vgp5cj-q-trump-d-party-death-spiral-trump-caught-dem-all-military-intelligence-sci.html</a></p>
+<p>Trump Drops Q Comms at New Site! Michigan NH AZ Audits! </p>
+<p><a href="https://rumble.com/vgn23x-trump-drops-q-comms-at-new-site-michigan-nh-az-audits-bring-the-rain-timest.html" rel="nofollow">https://rumble.com/vgn23x-trump-drops-q-comms-at-new-site-michigan-nh-az-audits-bring-the-rain-timest.html</a></p>
+<p>Cabal Calls BLM Antifa to Fight AZ Audit! Q+ Trump: BQQM Week Ahead!</p>
+<p><a href="https://rumble.com/vginzf-cabal-calls-blm-antifa-to-fight-az-audit-q-trump-bqqm-week-ahead-nothing-ca.html" rel="nofollow">https://rumble.com/vginzf-cabal-calls-blm-antifa-to-fight-az-audit-q-trump-bqqm-week-ahead-nothing-ca.html</a></p>
+<p>Trump Confirms Q 100% PROOF! Hussein to Hang for Treason BQQM Week! Nothing Can Stop What Is Coming!</p>
+<p><a href="https://rumb" rel="nofollow">https://rumb</a></p></div>
+<span class="less hidden"><i class="fal fa-minus-square fa-fw" data-fa-transform="up-0.5"></i> LESS</span>
+</div>
+<table class="video-detail-list">
+<tr><td>Category</td><td><a href="/category/news/" class="spa">News &amp; Politics</a></td></tr>
+<tr><td>Sensitivity</td><td><a href="https://support.bitchute.com/policy/guidelines/#content-sensitivity" target="_blank" rel="noopener noreferrer">Normal - Content that is suitable for ages 16 and over</a></td></tr>
+</table>
+</div>
+</div>
+<div class="row">
+<div class="col-xs-12">
+<div class="video-comments">
+ <div id="comment-frm-container" class="lazyload">
+<div id="comments-container"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-xs-12 col-sm-4 col-md-3 sidebar">
+<div class="membership-container">
+<a href="/help-us-grow/" class="spa" aria-label="Help BitChute Grow"><img class="img-responsive" src="/static/v130/images/help-us-grow-small.png" alt="Help BitChute Grow"></a>
+</div>
+<div class="sidebar-video">
+<div class="sidebar-next text-center">
+<h2 class="sidebar-heading">Playing Next<span data-toggle="tooltip" data-placement="bottom" title="Currently watching videos from ChristianPatriotNews. The next video has been automatically selected from this channel."><i class="fal fa-question-circle fa-fw" data-fa-transform="shrink-4"></i></span></h2>
+<label class="sidebar-autoplay switch" data-toggle="tooltip" data-placement="bottom" title="Play next video automatically">
+<input id="autoplay-toggle" type="checkbox" checked />
+<div class="slider"></div>
+</label>
+<div class="video-card">
+<a href="/video/Qbi62V0OSO3D/" class="spa">
+<div class="video-card-image">
+<img class="img-responsive lazyload" src="/static/v130/images/loading_320x180.png" data-src="https://static-3.bitchute.com/live/cover_images/8XJCp11El6zu/Qbi62V0OSO3D_320x180.jpg" onerror="this.src='/static/v130/images/blank_320x180.png';this.onerror='';" alt="video image">
+<img class="img-responsive play-overlay" src="/static/v130/images/play-button.png" alt="play">
+<span class="video-views"><i class="far fa-eye"></i> 21.7K</span>
+<span class="video-duration">35:05</span>
+</div>
+</a>
+<div class="video-card-text">
+<p class="video-card-title"><a href="/video/Qbi62V0OSO3D/" class="spa">Trump Is Still President 100% Q Proof USA Is At War! Martial Law Insurrection Act MI Tribunal Courts</a></p>
+<p class="video-card-channel"><a href="/channel/christianpatriotnews/" class="spa">ChristianPatriotNews</a></p>
+<p class="video-card-published">2 days, 15 hours ago</p>
+</div>
+</div>
+</div>
+<div class="sidebar-recent text-center">
+<h2 class="sidebar-heading">Related Videos<span data-toggle="tooltip" data-placement="bottom" title="Related videos have been selected from ChristianPatriotNews, the parent channel for this video"><i class="fal fa-question-circle fa-fw" data-fa-transform="shrink-4"></i></span></h2>
+<div class="video-card">
+<a href="/video/GVkjHiHJZQF4/" class="spa">
+<div class="video-card-image">
+<img class="img-responsive lazyload" src="/static/v130/images/loading_320x180.png" data-src="https://static-3.bitchute.com/live/cover_images/8XJCp11El6zu/GVkjHiHJZQF4_320x180.jpg" onerror="this.src='/static/v130/images/blank_320x180.png';this.onerror='';" alt="video image">
+<img class="img-responsive play-overlay" src="/static/v130/images/play-button.png" alt="play">
+<span class="video-views"><i class="far fa-eye"></i> 12.1K</span>
+<span class="video-duration">30:39</span>
+</div>
+</a>
+<div class="video-card-text">
+<p class="video-card-title"><a href="/video/GVkjHiHJZQF4/" class="spa">Trump Fires Back Against [DS] Fake News! Q&#x27;s 4 Big BQQMS are AZ, GA, PA, MI! One Falls They All Fall</a></p>
+<p class="video-card-published">3 days, 15 hours ago</p>
+</div>
+</div>
+<div class="video-card">
+<a href="/video/TNwEs6CFXEly/" class="spa">
+<div class="video-card-image">
+<img class="img-responsive lazyload" src="/static/v130/images/loading_320x180.png" data-src="https://static-3.bitchute.com/live/cover_images/8XJCp11El6zu/TNwEs6CFXEly_320x180.jpg" onerror="this.src='/static/v130/images/blank_320x180.png';this.onerror='';" alt="video image">
+<img class="img-responsive play-overlay" src="/static/v130/images/play-button.png" alt="play">
+<span class="video-views"><i class="far fa-eye"></i> 8840</span>
+<span class="video-duration">36:06</span>
+</div>
+</a>
+<div class="video-card-text">
+<p class="video-card-title"><a href="/video/TNwEs6CFXEly/" class="spa">Trump INDICTMENT Coming? The Deep State Strikes Back! NY GA Prosecutors Threaten PRISON! Fake News?</a></p>
+<p class="video-card-published">5 days, 3 hours ago</p>
+</div>
+</div>
+<div class="video-card">
+<a href="/video/eeuHg4D5sL3v/" class="spa">
+<div class="video-card-image">
+<img class="img-responsive lazyload" src="/static/v130/images/loading_320x180.png" data-src="https://static-3.bitchute.com/live/cover_images/8XJCp11El6zu/eeuHg4D5sL3v_320x180.jpg" onerror="this.src='/static/v130/images/blank_320x180.png';this.onerror='';" alt="video image">
+<img class="img-responsive play-overlay" src="/static/v130/images/play-button.png" alt="play">
+<span class="video-views"><i class="far fa-eye"></i> 20.3K</span>
+<span class="video-duration">41:46</span>
+</div>
+</a>
+<div class="video-card-text">
+<p class="video-card-title"><a href="/video/eeuHg4D5sL3v/" class="spa">Q+ TRUMP, LIN WOOD, DREW MCKISSICK &amp; THE SCGOP RACE! WHAT HAPPENED? WHAT&#x27;S NEXT? AND WHO NEEDS LUCK?</a></p>
+<p class="video-card-published">6 days, 6 hours ago</p>
+</div>
+</div>
+<div class="video-card">
+<a href="/video/aN0NH7R1NW3s/" class="spa">
+<div class="video-card-image">
+<img class="img-responsive lazyload" src="/static/v130/images/loading_320x180.png" data-src="https://static-3.bitchute.com/live/cover_images/8XJCp11El6zu/aN0NH7R1NW3s_320x180.jpg" onerror="this.src='/static/v130/images/blank_320x180.png';this.onerror='';" alt="video image">
+ <img class="img-responsive play-overlay" src="/static/v130/images/play-button.png" alt="play">
+<span class="video-views"><i class="far fa-eye"></i> 17.4K</span>
+<span class="video-duration">34:42</span>
+</div>
+</a>
+<div class="video-card-text">
+<p class="video-card-title"><a href="/video/aN0NH7R1NW3s/" class="spa">Q is Truth 100% Proof EPIC 3-Year Delta! Trump is Still President! Dan Scavino Comms! Military Court</a></p>
+<p class="video-card-published">1 week ago</p>
+</div>
+</div>
+<div class="video-card">
+<a href="/video/KAmLJ9wU4iH9/" class="spa">
+<div class="video-card-image">
+<img class="img-responsive lazyload" src="/static/v130/images/loading_320x180.png" data-src="https://static-3.bitchute.com/live/cover_images/8XJCp11El6zu/KAmLJ9wU4iH9_320x180.jpg" onerror="this.src='/static/v130/images/blank_320x180.png';this.onerror='';" alt="video image">
+<img class="img-responsive play-overlay" src="/static/v130/images/play-button.png" alt="play">
+<span class="video-views"><i class="far fa-eye"></i> 13.6K</span>
+<span class="video-duration">41:46</span>
+</div>
+</a>
+<div class="video-card-text">
+<p class="video-card-title"><a href="/video/KAmLJ9wU4iH9/" class="spa">Q+ Trump Good Luck Deep State Cabal! You&#x27;ll Need It! WIN With Lin Wood! Learn Our Comms! Pain Coming</a></p>
+<p class="video-card-published">1 week, 1 day ago</p>
+</div>
+</div>
+<div class="video-card">
+<a href="/video/PSIt7FrKOI1A/" class="spa">
+<div class="video-card-image">
+<img class="img-responsive lazyload" src="/static/v130/images/loading_320x180.png" data-src="https://static-3.bitchute.com/live/cover_images/8XJCp11El6zu/PSIt7FrKOI1A_320x180.jpg" onerror="this.src='/static/v130/images/blank_320x180.png';this.onerror='';" alt="video image">
+<img class="img-responsive play-overlay" src="/static/v130/images/play-button.png" alt="play">
+<span class="video-views"><i class="far fa-eye"></i> 23.5K</span>
+<span class="video-duration">47:29</span>
+</div>
+</a>
+<div class="video-card-text">
+<p class="video-card-title"><a href="/video/PSIt7FrKOI1A/" class="spa">Trump&#x27;s June Return! New American Republic! No Income Tax! Insurrection FEMA Elections Gold Standard</a></p>
+<p class="video-card-published">1 week, 2 days ago</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-xs-12 video-sensitivity-warning hidden pb10">
+<h4 class="pb15"><i class="fas fa-exclamation-triangle"></i> Warning - This video exceeds your sensitivity preference!</h4>
+<p>To dismiss this warning and continue to watch the video please click on the button below.</p>
+<p><strong>Note - </strong>Autoplay has been disabled for this video.</p>
+<button type="button" class="btn btn-danger video-sensitivity-button"><i class="fas fa-video fa-fw"></i> Watch this video</button>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+    $(document).ready(function () {
+        
+        setTimeout(videoCheckAdverts, 1000);
+        videoResetRefresh();
+        videoRefreshCounts('lrRtsiQJroI7');
+        htmlRatioComponentHelper.initializeAll();
+        
+            
+                videoPlayerInit('/static/v130/', true, true);
+            
+        
+        monetizationInit('8XJCp11El6zu');
+        if (Cookies.getJSON('preferences')) $('#autoplay-toggle').prop('checked',Cookies.getJSON('preferences').autoplay);
+        playlistAttachEvents();
+        playlistAttachModalEvents();
+        spaAttachEvents();
+        scrollerAttachEvents();
+        videoAttachEvents();
+        uploadAttachEvents();
+        videoAutoplayInit(false);
+        
+        $('.plyr__menu__container button:nth-child(2)').addClass('hidden');
+    });
+</script>
+<script>
+    window.commentCount=0;
+    var refreshAction = function refreshAction() {initComments('https://commentfreely.bitchute.com','eyJwcm9maWxlX2lkIjogImFub255bW91cyIsICJvd25lcl9pZCI6ICJ6MzZCVks0aUxGMXoiLCAiZGlzcGxheV9uYW1lIjogImFub255bW91cyIsICJ0aHJlYWRfaWQiOiAiYmNfbHJSdHNpUUpyb0k3IiwgImljb25fdXJsIjogIi9zdGF0aWMvdjEzMC9pbWFnZXMvYmxhbmstcHJvZmlsZS5wbmciLCAiY2ZfaXNfYWRtaW4iOiAiZmFsc2UifQ== 506a54caabeb7ee6235e92db743342cd004485717f20947ddf2b7ef3db057da7 1621822619','','/static/v130/images/blank-profile.png', window.commentCount, refreshAction, false);}
+    function commentRefreshCounts(threadId) {
+        if (window.location.pathname.indexOf(threadId) !== -1) {
+            $.post({
+                url: 'https://commentfreely.bitchute.com' + '/api/get_comment_count/',
+                data: {cf_auth: 'eyJwcm9maWxlX2lkIjogImFub255bW91cyIsICJvd25lcl9pZCI6ICJ6MzZCVks0aUxGMXoiLCAiZGlzcGxheV9uYW1lIjogImFub255bW91cyIsICJ0aHJlYWRfaWQiOiAiYmNfbHJSdHNpUUpyb0k3IiwgImljb25fdXJsIjogIi9zdGF0aWMvdjEzMC9pbWFnZXMvYmxhbmstcHJvZmlsZS5wbmciLCAiY2ZfaXNfYWRtaW4iOiAiZmFsc2UifQ== 506a54caabeb7ee6235e92db743342cd004485717f20947ddf2b7ef3db057da7 1621822619', cf_thread: 'bc_lrRtsiQJroI7'},
+                success: function (result) {
+                    remoteCount = Number(result['commentCount']);
+                    if ( window.commentCount == 0 || window.commentCount > remoteCount ) { window.commentCount = remoteCount; }
+                    if ( remoteCount > window.commentCount ) $('.long-btn').show();
+                },
+                complete: function () {setTimeout(commentRefreshCounts, 60000, 'lrRtsiQJroI7');},
+            });
+        }
+    }
+    $( document ).ready(function() {refreshAction(); commentRefreshCounts('lrRtsiQJroI7');});
+</script>
+<script src="https://cdn.jsdelivr.net/npm/gun/gun.js"></script>
+<script>
+setTimeout(function(){ // lazy load
+
+localStorage['gun/'] = ''; // clear out any old data for this p2p test
+var gun = window.gun = Gun({retry: 3, peers: ['https://thefastestguninthewest.bitchute.com/gun'], localStorage: false});
+
+gun.start = +new Date;
+gun.get('test').get('latency').on(function(data){
+  if(gun.latency){ return } // only compute once
+  gun.latency = +new Date - gun.start;
+  var random = {}, when = (new Date().toISOString().split(':')||[])[0]||'';
+  gun.get('test-p2p-'+when).get(Math.random().toString(32).slice(2)).put(gun.latency, function(ack){
+    (gun.ack = ack).got = +new Date;
+  });
+});
+setTimeout(function(){ // there may be no data to test a read against, so start it.
+  if(gun.latency){ return }
+  Gun.state.drift = -99999999; // force old state for now
+  gun.get('test').get('latency').put(gun.latency = "hello world!"); // prevent triggering self
+},1000*10)
+
+},1000);
+</script>
+</div>
+<div id="loader-container"><div id="loader"><ul><li></li><li></li><li></li><li></li><li></li><li></li></ul></div></div>
+</div>
+<div id="page-footer" class="container">
+BitChute is a peer-to-peer content sharing platform. Creators are allowed to post content they produce to the platform, so long as they comply with our <a href="https://support.bitchute.com/policy/" target="_blank" rel="noopener noreferrer">policies</a>. The content posted to the platform is not reflective or representative of the views of Bit Chute Limited, its staff or owners. &copy;&nbsp;2017-2021&nbsp;Bit&nbsp;Chute&nbsp;Limited, Box&nbsp;813, Andover&nbsp;House, George&nbsp;Yard, Andover, Hampshire, SP10&nbsp;1PB. United&nbsp;Kingdom. Company&nbsp;number&nbsp;10637289.
+</div>
+<span id="display_id" class="hidden">lrRtsiQJroI7</span>
+<span class="nav-tabs-list hidden"></span>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-slider/10.0.0/bootstrap-slider.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.17.0/jquery.validate.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jeditable.js/1.7.3/jeditable.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/2.1.3/toastr.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/lazysizes/4.0.1/lazysizes.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.1/clipboard.min.js"></script>
+
+<script type="text/javascript" src="https://cdn.polyfill.io/v2/polyfill.min.js?features=es6,Array.prototype.includes,CustomEvent,Object.entries,Object.values,URL" crossorigin="anonymous"></script>
+<script type="text/javascript" src="/static/v130/js/stream/plyr-min.js"></script>
+<script type="text/javascript" src="/static/v130/js/third-party/jquery.ui.widget.js" defer></script>
+<script type="text/javascript" src="/static/v130/js/third-party/jquery.iframe-transport.js" defer></script>
+<script type="text/javascript" src="/static/v130/js/third-party/jquery.fileupload.js" defer></script>
+<script type="text/javascript" src="/static/v130/js/third-party/fontawesome-all.min.js" defer></script>
+<script type="text/javascript" src="/static/v130/js/third-party/rangetouch.js"></script>
+<script type="text/javascript" src="/static/v130/js/third-party/html-ratio-component.js"></script>
+<script type="text/javascript" src="/static/v130/js/auth.js"></script>
+<script type="text/javascript" src="/static/v130/js/channel.js"></script>
+<script type="text/javascript" src="/static/v130/js/channel-list.js"></script>
+<script type="text/javascript" src="/static/v130/js/common.js"></script>
+<script type="text/javascript" src="/static/v130/js/help-us-grow.js"></script>
+<script type="text/javascript" src="/static/v130/js/listing.js"></script>
+<script type="text/javascript" src="/static/v130/js/membership.js"></script>
+<script type="text/javascript" src="/static/v130/js/flagging.js"></script>
+<script type="text/javascript" src="/static/v130/js/monetization.js"></script>
+<script type="text/javascript" src="/static/v130/js/notification.js"></script>
+<script type="text/javascript" src="/static/v130/js/playlist.js"></script>
+<script type="text/javascript" src="/static/v130/js/search.js"></script>
+<script type="text/javascript" src="/static/v130/js/upload.js"></script>
+<script type="text/javascript" src="/static/v130/js/video.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/p2p-media-loader-core@latest/build/p2p-media-loader-core.min.js" async></script>
+<script type="text/javascript" src="/static/v130/js/stream/p2p-graph.js" async></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.17/d3.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/rickshaw/1.6.3/rickshaw.min.js" async></script>
+<script type="text/javascript"></script>
+<script type="text/javascript">showRegistrationAlert();</script>
+<script type="text/javascript">channelCreateAttach();</script>
+<script type="text/javascript">(function(){window['__CF$cv$params']={r:'65430668deea6055',m:'4c5b7ae2d2b27663aa268a1171547fb5a45c9d45-1621822620-1800-AY5l85o66+lYfu+R9emMBEUCaflntI5f9gy26VvWg3Ccctu7vs8anrLHHhsmvBpoeGwLBdlgo7RKUF943DPDe7XQAUyZ9BhRHjQwxa2/CzbIIyUxIE38Nx9Y5WTc7708XCtlQcmSy9dIuObXHbdTt9A=',s:[0xc608c6a25f,0xe194d315ce],}})();</script></body>
+</html>
