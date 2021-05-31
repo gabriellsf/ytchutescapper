@@ -12,7 +12,7 @@ services:
     container_name: bitchutescrapper
     environment:
       MONGODB_DATABASE: bitchutescrapperdb
-      MONGODB_USERNAME: ytsemfake
+      MONGODB_USERNAME: root
       MONGODB_PASSWORD: ytsemfake
       MONGODB_HOSTNAME: mongodb
     volumes:
