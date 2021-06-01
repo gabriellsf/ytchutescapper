@@ -2,7 +2,6 @@ import requests
 from app import file_manager
 import re
 import time
-import random
 
 ## INICIO DB Externalizar em outro arquivo
 #from pymongo import MongoClient
@@ -43,33 +42,43 @@ request_headers_list = {
     'x-requested-with': 'XMLHttpRequest'
 }
 
-request_extend_list_payload = { "csrfmiddlewaretoken": request_cookies["csrftoken"],
-    "name": "popular"
+request_extend_list_payload = { "csrfmiddlewaretoken": request_cookies["csrftoken"]
 }
 
-category = ['news','science','animation','arts','vehicles','beauty','finance','cuisine','diy',
+pattern = re.compile('<span class=\\\\\"video-card-id hidden\\\\\">(.+?)<\/span>')
+category = ['science','animation','arts','vehicles','beauty','finance','cuisine','diy',
         'education','entertainment','gaming','health','music','family','animals','spirituality',
-        'vlogging','travel','sport']
-category_index = 12
+        'vlogging','travel','sport','news']
+type = ["popular","all"]        
+category_index = 0
+type_index = 1
 offset = 0
 last = ""
-while category_index < len(category):
-    request_headers_list['referer'] = 'https://www.bitchute.com/category/' + category[category_index] + '/'
-    print(category[category_index])
-    while True:
-        print(offset)
-        request_extend_list_payload["offset"] = offset
-        request_extend_list_payload["last"] = last
-        request_extend_video = requests.post('https://www.bitchute.com/category/' + category[category_index] + '/extend/', request_extend_list_payload, headers=request_headers_list, cookies=request_cookies)
-        file_manager.write_data(request_extend_video.text,"video/" + category[category_index] + "/list", "extend_"+ str(offset) + ".txt")
-         
-        offset += 20
+while type_index < len(type):
+    while category_index < len(category):
+        request_headers_list['referer'] = 'https://www.bitchute.com/category/' + category[category_index] + '/'
+        print(category[category_index] + '_' + type[type_index])
+        while True:
+            print(offset)
+            request_extend_list_payload["offset"] = offset
+            request_extend_list_payload["last"] = last
+            request_extend_list_payload["name"] = type[type_index]
+            request_extend_video = requests.post('https://www.bitchute.com/category/' + category[category_index] + '/extend/', request_extend_list_payload, headers=request_headers_list, cookies=request_cookies)
+            file_manager.write_data(request_extend_video.text,"video/" + category[category_index] + "/list_" + type[type_index], "extend_"+ str(offset) + ".txt")
+                
+            all_matches = re.findall(pattern, request_extend_video.text) 
+            
+            if offset > 20000 or len(all_matches) == 0:
+                category_index += 1
+                last = ''
+                offset = 0
+                time.sleep(2.3)
+                break
+            else:
+                last = all_matches[len(all_matches)-1]
+                offset += 20
+    type_index += 1
 
-        if offset > 600:
-            category_index += 1
-            last = ''
-            offset = 0
-            break
 
 # videos = set()
 

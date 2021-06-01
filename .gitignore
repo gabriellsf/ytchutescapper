@@ -1,2 +1,4 @@
 ﻿.vscode
 src/data/db
+src/data
+old_data

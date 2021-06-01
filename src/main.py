@@ -1,5 +1,6 @@
 import requests
 import re
+import time
 from app import file_manager
 
 ## INICIO DB Externalizar em outro arquivo
@@ -38,12 +39,21 @@ pattern_duration = re.compile('<span class="video-duration">(.+?)<\/span>')
 pattern_category = re.compile('<tr><td>Category<\/td><td><a href="\/category\/(.+?)\/')
 
 video_collection = db['video']
+count = 0
 
 while True:
     video = video_collection.find_one({"scrapped": False})
     request_headers_id['referer'] = 'https://www.bitchute.com/video/' + video["_id"] + '/'
 
     video_request = requests.get('https://www.bitchute.com/video/' + video["_id"] + '/', headers=request_headers_id, cookies=request_cookies)
+
+    if video_request.status_code != 200:
+        video_collection.update_one({"_id": video["_id"]},{ '$set': {
+            "scrapped": True,
+            "failed": True
+        }})
+        continue
+
     text = video_request.text
     category = re.search(pattern_category,text)
     file_manager.write_data(text,"video/" + category[1] + "/page", video["_id"] + ".txt")
@@ -69,5 +79,8 @@ while True:
     },
         '$currentDate': { 'lastModified': True }
     })
+
+    print(count)
+    count += 1
 
 
