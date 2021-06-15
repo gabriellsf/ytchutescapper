@@ -79,25 +79,3 @@ while type_index < len(type):
                 offset += 20
     type_index += 1
 
-
-# videos = set()
-
-# pattern = re.compile('<span class=\\\\\"video-card-id hidden\\\\\">(.+?)<\/span>')
-# all_matches = re.findall(pattern, request_extend_video.text)
-#     for match in all_matches:
-#         print(match)
-#         videos.add(match)
-
-# for video_id in videos:
-#     request_headers_id['referer'] = 'https://www.bitchute.com/video/' + match + '/'
-#     video_request = requests.get('https://www.bitchute.com/video/' + match + '/', headers=request_headers_id, cookies=request_cookies)
-    
-#     category = '<tr><td>Category</td><td><a href=\"\/category\/news\/"'
-
-#     file_manager.write_data(video_request.text,"video/" + category[category_index] + "/page", match + ".txt")
-
-
-
-#     <tr><td>Category</td><td><a href="/category/news/"
-
-
