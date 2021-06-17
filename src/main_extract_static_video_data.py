@@ -16,7 +16,7 @@ category = ['news','science','animation','arts','vehicles','beauty','finance','c
         'vlogging','travel','sport']
 
 
-channel_pattern = re.compile('/channel/(.+?)/')
+channel_pattern = re.compile('<p class="name"><a href="/channel/(.+?)/"')
 title_pattern = re.compile('<title>(.+)</title>', re.MULTILINE | re.DOTALL)
 youtube_channel_id_pattern = re.compile('https://www\.youtube\.com/channel/(.+?)/videos')
 youtube_channel_user_pattern = re.compile('https://www\.youtube\.com/user/(.+?)[\"|/|<|?:\s+|$]')

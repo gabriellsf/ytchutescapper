@@ -1,6 +1,5 @@
 import requests
 import re
-import time
 from app import file_manager
 
 ## INICIO DB Externalizar em outro arquivo

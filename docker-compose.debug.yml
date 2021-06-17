@@ -3,6 +3,7 @@ version: '3.4'
 services:
   bitchutescrapper:
     image: bitchutescrapper
+    restart: unless-stopped
     build:
       context: .
       dockerfile: ./Dockerfile

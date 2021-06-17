@@ -11,13 +11,13 @@ ENV PYTHONUNBUFFERED=1
 COPY requirements.txt .
 RUN python -m pip install -r requirements.txt
 
-COPY ./src /src
+COPY ./src/main.py /src/main.py
+COPY ./src/app /src/app
 
 # Creates a non-root user with an explicit UID and adds permission to access the /app folder
 # For more info, please refer to https://aka.ms/vscode-docker-python-configure-containers
 RUN adduser -u 5678 --disabled-password --gecos "" ytsemfake \
-    && chown -R ytsemfake /src/data/db && chown -R ytsemfake /src/main.py \
-    && chown -R ytsemfake /src/app 
+    && chown -R ytsemfake /src/app  && chown -R ytsemfake /src/main.py 
 
 USER ytsemfake
 

@@ -35,10 +35,8 @@ request_headers_id = {
     'upgrade-insecure-requests': "1"
 }
 
-pattern = re.compile('')
-pattern_category = re.compile('')
-pattern_views = re.compile('<span class="video-views"><i class="far fa-eye"><\/i>(.+?)<\/span>')
-pattern_duration = re.compile('<span class="video-duration">(.+?)<\/span>')
+pattern_name = re.compile('<p class="name"><a href="/channel/belgiancongo/" class="spa">(.+?)</a></p>')
+pattern_category = re.compile('<p>Category <span class=""><a href="/category/(.+?)/"')
 
 channel_collection = db['channel']
 video_collection = db['video']
@@ -46,13 +44,14 @@ count = 0
 
 while True:
     channel = channel_collection.find_one({"scrapped": False})
+    
     request_headers_id['referer'] = 'https://www.bitchute.com/channel/' + channel["_id"] + '/'
     request_headers_id['path'] = '/channel/' + channel["_id"] + '/'
 
     channel_request = requests.get('https://www.bitchute.com/channel/' + channel["_id"] + '/', headers=request_headers_id, cookies=request_cookies)
 
     if channel_request.status_code != 200:
-        channel.update_one({"_id": channel["_id"]},{ '$set': {
+        channel_collection.update_one({"_id": channel["_id"]},{ '$set': {
             "scrapped": True,
             "failed": True
         }})
@@ -60,23 +59,9 @@ while True:
 
     text = channel_request.text
     category = re.search(pattern_category,text)
-    file_manager.write_data(text,"channel/" + category[1] + "/page", channel["_id"] + ".txt")
-
-    video_matches = re.findall(pattern, text)
-    views_matches = re.findall(pattern_views, text)
-    duration_matches = re.findall(pattern_duration, text)
-
-    for i, match in enumerate(video_matches):
-        try:
-            video_collection.insert_one({"_id": match}, {
-                "_id": match,
-                "scrapped": False,
-                "views": views_matches[i],
-                "duration": duration_matches[i]
-            })         
-        except mongo_exception.DuplicateKeyError:
-            # skip document because it already exists in new collection
-            continue 
+    if category is None:
+        category = [None,"none"]
+    file_manager.write_data(text,"video/" + category[1] + "/channel", channel["_id"] + ".txt")
 
     channel_collection.update_one({"_id": channel["_id"]},{ '$set': {
         "scrapped": True,

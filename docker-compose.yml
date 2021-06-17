@@ -7,6 +7,7 @@ services:
       context: .
       dockerfile: ./Dockerfile
     container_name: bitchutescrapper
+    restart: unless-stopped
     environment:
       MONGODB_DATABASE: bitchutescrapperdb
       MONGODB_USERNAME: ytsemfake
