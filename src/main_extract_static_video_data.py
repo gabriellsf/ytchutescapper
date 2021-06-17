@@ -13,12 +13,12 @@ db=client[os.environ['MONGODB_DATABASE']]
 
 category = ['news','science','animation','arts','vehicles','beauty','finance','cuisine','diy',
         'education','entertainment','gaming','health','music','family','animals','spirituality',
-        'vlogging','travel','sport']
+        'vlogging','travel','sport','none']
 
-
+video_block_pattern = re.compile('<h1 class="page-title">Video Blocked</h1>')
 channel_pattern = re.compile('<p class="name"><a href="/channel/(.+?)/"')
 title_pattern = re.compile('<title>(.+)</title>', re.MULTILINE | re.DOTALL)
-youtube_channel_id_pattern = re.compile('https://www\.youtube\.com/channel/(.+?)/videos')
+youtube_channel_id_pattern = re.compile('https://www\.youtube\.com/channel/(.+?)[\"|/|<|?:\s+|$]')
 youtube_channel_user_pattern = re.compile('https://www\.youtube\.com/user/(.+?)[\"|/|<|?:\s+|$]')
 youtube_channel_user_pattern_2 = re.compile('https://www\.youtube\.com/c/(.+?)[\"|/|<|?:\s+|$]')
 youtube_video_id_pattern = re.compile('https://www\.youtube\.com/watch\?v=(.+?)[\"|/|<|?:\s+|$]')
@@ -37,6 +37,12 @@ for c in category:
         with open(dir + file, "r") as data:
             text = data.read()
             channel_matches = re.findall(channel_pattern,text) 
+            if channel_matches is None or len(channel_matches) == 0:
+                channel_matches = ['none']
+
+            video_block_matches = re.findall(video_block_pattern,text) 
+            video_blocked = not(video_block_matches is None or len(video_block_matches) == 0)
+
             title_matches = re.findall(title_pattern,text) 
             youtube_channel_id_matches = re.findall(youtube_channel_id_pattern,text) 
 
@@ -55,17 +61,19 @@ for c in category:
                 "youtube_channel_id": list(set(youtube_channel_id_matches)),
                 "youtube_channel_name": list(set(youtube_channel_user_matches)),
                 "youtube_video_id": list(set(youtube_video_id_matches)),
-                "video_publish_date": date_matches[0],
-                "sensitivity": sensitivity_matches[0],
+                "video_publish_date": date_matches[0] if len(date_matches) > 0 else '',
+                "sensitivity": sensitivity_matches[0] if len(sensitivity_matches) > 0 else '',
+                "video_blocked": video_blocked,
                 "lastModified_static_data": datetime.now()
             }})
 
-            try:
-                channel_collection.insert_one({
-                    "_id": channel_matches[0],
-                    "scrapped": False
-                })         
-            except mongo_exception.DuplicateKeyError:
-                # skip document because it already exists in new collection
-                continue 
+            if channel_matches[0] != 'none':
+                try:
+                    channel_collection.insert_one({
+                        "_id": channel_matches[0],
+                        "scrapped": False
+                    })         
+                except mongo_exception.DuplicateKeyError:
+                    # skip document because it already exists in new collection
+                    continue 
                 
