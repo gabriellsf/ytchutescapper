@@ -1,15 +1,11 @@
 import os
 import re
-
-## INICIO DB Externalizar em outro arquivo
 from pymongo import MongoClient
 from pymongo import errors as mongo_exception
-import os
-# connect to MongoDB, change the << MONGODB URL >> to reflect your own connection string
+
+
 client = MongoClient('mongodb://' + os.environ['MONGODB_USERNAME'] + ':' + os.environ['MONGODB_PASSWORD'] + '@' + os.environ['MONGODB_HOSTNAME'] + ':27017/' + os.environ['MONGODB_DATABASE'] + '?authSource=admin')
 db=client[os.environ['MONGODB_DATABASE']]
-
-#FIM DB
 
 category = ['news','science','animation','arts','vehicles','beauty','finance','cuisine','diy',
         'education','entertainment','gaming','health','music','family','animals','spirituality',
@@ -42,7 +38,6 @@ for t in type:
                         })         
                     except mongo_exception.DuplicateKeyError:
                         # skip document because it already exists in new collection
-                        continue 
-                
-print(video_collection.find({"scrapped": False}).count())
+                        continue        
+            print(video_collection.count_documents({"scrapped": False}))
 
