@@ -41,6 +41,82 @@ services:
     networks:
       - mongo-compose-network
 
+  bitchute_video_scrapper:
+    image: bitchute_video_scrapper
+    build:
+      context: .
+      dockerfile: ./DockerfileVideoScrapper
+    container_name: bitchute_video_scrapper
+    restart: unless-stopped
+    environment:
+      MONGODB_DATABASE: bitchutescrapperdb
+      MONGODB_USERNAME: root
+      MONGODB_PASSWORD: ytsemfake
+      MONGODB_HOSTNAME: mongodb
+    volumes:
+      - ./src/data:/src/data
+    depends_on:
+        - mongodb
+    networks:
+      - mongo-compose-network    
+
+  bitchute_channel_scrapper:
+    image: bitchute_channel_scrapper
+    build:
+      context: .
+      dockerfile: ./DockerfileChannelScrapper
+    container_name: bitchute_channel_scrapper
+    restart: unless-stopped
+    environment:
+      MONGODB_DATABASE: bitchutescrapperdb
+      MONGODB_USERNAME: root
+      MONGODB_PASSWORD: ytsemfake
+      MONGODB_HOSTNAME: mongodb
+    volumes:
+      - ./src/data:/src/data
+    depends_on:
+        - mongodb
+    networks:
+      - mongo-compose-network       
+
+  bitchute_live_video_data:
+    image: bitchute_live_video_data
+    build:
+      context: .
+      dockerfile: ./DockerfileExtractLiveVideoData
+    container_name: bitchute_live_video_data
+    restart: unless-stopped
+    environment:
+      MONGODB_DATABASE: bitchutescrapperdb
+      MONGODB_USERNAME: root
+      MONGODB_PASSWORD: ytsemfake
+      MONGODB_HOSTNAME: mongodb
+    volumes:
+      - ./src/data:/src/data
+    depends_on:
+        - mongodb
+    networks:
+      - mongo-compose-network      
+
+  bitchute_live_channel_data:
+    image: bitchute_live_channel_data
+    build:
+      context: .
+      dockerfile: ./DockerfileExtractLiveChannelData
+    container_name: bitchute_live_channel_data
+    restart: unless-stopped
+    environment:
+      MONGODB_DATABASE: bitchutescrapperdb
+      MONGODB_USERNAME: root
+      MONGODB_PASSWORD: ytsemfake
+      MONGODB_HOSTNAME: mongodb
+    volumes:
+      - ./src/data:/src/data
+    depends_on:
+        - mongodb
+    networks:
+      - mongo-compose-network         
+
 networks: 
     mongo-compose-network:
       driver: bridge

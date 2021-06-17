@@ -10,7 +10,7 @@ services:
     restart: unless-stopped
     environment:
       MONGODB_DATABASE: bitchutescrapperdb
-      MONGODB_USERNAME: ytsemfake
+      MONGODB_USERNAME: root
       MONGODB_PASSWORD: ytsemfake
       MONGODB_HOSTNAME: mongodb
     volumes:
@@ -37,6 +37,25 @@ services:
       - ./src/data/db:/data/db
     networks:
       - mongo-compose-network
+
+  bitchute_video_scrapper:
+    image: bitchute_video_scrapper
+    build:
+      context: .
+      dockerfile: ./DockerfileVideoScrapper
+    container_name: bitchute_video_scrapper
+    restart: unless-stopped
+    environment:
+      MONGODB_DATABASE: bitchutescrapperdb
+      MONGODB_USERNAME: root
+      MONGODB_PASSWORD: ytsemfake
+      MONGODB_HOSTNAME: mongodb
+    volumes:
+      - ./src/data:/src/data
+    depends_on:
+        - mongodb
+    networks:
+      - mongo-compose-network   
 
 networks: 
     mongo-compose-network:
