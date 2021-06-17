@@ -44,7 +44,7 @@ while type_index < len(type):
             request_extend_list_payload["last"] = last
             request_extend_list_payload["name"] = type[type_index]
             request_extend_video = requests.post('https://www.bitchute.com/category/' + category[category_index] + '/extend/', request_extend_list_payload, headers=request_headers_list, cookies=request_cookies)
-            file_manager.write_data(request_extend_video.text,"video/" + category[category_index] + "/list_" + type[type_index], "extend_"+ str(offset) + ".txt")
+            file_manager.write_data(request_extend_video.text,"video/" + category[category_index] + "/list/list_" + type[type_index], "extend_"+ str(offset) + ".txt")
                 
             all_matches = re.findall(pattern, request_extend_video.text) 
             
