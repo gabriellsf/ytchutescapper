@@ -1,16 +1,14 @@
 import requests
 import re
+import os
+import time
 from app import file_manager
-
-## INICIO DB Externalizar em outro arquivo
 from pymongo import MongoClient
 from pymongo import errors as mongo_exception
-import os
-# connect to MongoDB, change the << MONGODB URL >> to reflect your own connection string
+
+
 client = MongoClient('mongodb://' + os.environ['MONGODB_USERNAME'] + ':' + os.environ['MONGODB_PASSWORD'] + '@' + os.environ['MONGODB_HOSTNAME'] + ':27017/' + os.environ['MONGODB_DATABASE'] + '?authSource=admin')
 db=client[os.environ['MONGODB_DATABASE']]
-
-#FIM DB
 
 initial_response = requests.get('https://www.bitchute.com/category/science/')
 
@@ -31,7 +29,6 @@ request_headers_id = {
     'upgrade-insecure-requests': "1"
 }
 
-
 pattern = re.compile('<p class="video-card-title"><a href="\/video\/(.+?)\/')
 pattern_views = re.compile('<span class="video-views"><i class="far fa-eye"><\/i>(.+?)<\/span>')
 pattern_duration = re.compile('<span class="video-duration">(.+?)<\/span>')
@@ -42,6 +39,10 @@ count = 0
 
 while True:
     video = video_collection.find_one({"scrapped": False})
+    if video is None:
+        time.sleep(5*60)
+        continue
+
     request_headers_id['referer'] = 'https://www.bitchute.com/video/' + video["_id"] + '/'
 
     video_request = requests.get('https://www.bitchute.com/video/' + video["_id"] + '/', headers=request_headers_id, cookies=request_cookies)
@@ -49,12 +50,15 @@ while True:
     if video_request.status_code != 200:
         video_collection.update_one({"_id": video["_id"]},{ '$set': {
             "scrapped": True,
-            "failed": True
+            "failed": True,
+            "request_status_code": video_request.status_code
         }})
         continue
 
     text = video_request.text
     category = re.search(pattern_category,text)
+    if category is None:
+        category = [None,"none"]
     file_manager.write_data(text,"video/" + category[1] + "/page", video["_id"] + ".txt")
 
     all_matches = re.findall(pattern, text)
@@ -79,7 +83,6 @@ while True:
         '$currentDate': { 'lastModified': True }
     })
 
-    print(count)
-    count += 1
+    print(video_collection.count_documents({"scrapped": False}))
 
 

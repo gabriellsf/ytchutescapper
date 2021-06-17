@@ -1,6 +1,6 @@
 import requests
 import re
-from datetime  import datetime
+import time
 from app import file_manager
 
 ## INICIO DB Externalizar em outro arquivo
@@ -18,7 +18,7 @@ initial_response = requests.get('https://www.bitchute.com/channels/')
 request_cookies = initial_response.cookies.get_dict()
 request_cookies["registration"] = "on"
 request_cookies["preferences"] = "{%22theme%22:%22day%22%2C%22autoplay%22:true}"
-request_cookies["__cf_bm"] = "4dc3db51f6f7241eeece9ef48763056de9c3b26f-1623714637-1800-AfEmTDVhDhomG/N51oD6UIiVmQSNSOtswFP+W8fGi9IKLAtusj/2V1OS2vil0eiCeapWwEjM3QkdehZIXPoMqyKTs+YmslGja0QoYuIxPuuuTutcYzx+GNKWqEzHMZauxA=="
+request_cookies["__cf_bm"] = "1e1e664beed0c4b9da63e4c9954218ba951e6a44-1621566780-1800-AXp0m8SRTnOnIInBLWNyLZXFMwwsgt2tM7p7jAUeqt25qostdPWI57pxaM9L10kKHl1xNzQwVgoKZbodOD0+vaAjZ2+wfk8v7audNgIE5BZcYz+EhG//Sdd625pHdo9U0w=="
 
 request_headers_id = {
     'origin': 'https://www.bitchute.com',
@@ -35,15 +35,15 @@ request_headers_id = {
     'upgrade-insecure-requests': "1"
 }
 
-pattern_name = re.compile('<p class="name"><a href="/channel/belgiancongo/" class="spa">(.+?)</a></p>')
 pattern_category = re.compile('<p>Category <span class=""><a href="/category/(.+?)/"')
 
 channel_collection = db['channel']
-video_collection = db['video']
-count = 0
 
 while True:
     channel = channel_collection.find_one({"scrapped": False})
+    if channel is None:
+        time.sleep(5*60)
+        continue
     
     request_headers_id['referer'] = 'https://www.bitchute.com/channel/' + channel["_id"] + '/'
     request_headers_id['path'] = '/channel/' + channel["_id"] + '/'
@@ -53,7 +53,8 @@ while True:
     if channel_request.status_code != 200:
         channel_collection.update_one({"_id": channel["_id"]},{ '$set': {
             "scrapped": True,
-            "failed": True
+            "failed": True,
+            "request_status_code": channel_request.status_code
         }})
         continue
 
@@ -65,13 +66,12 @@ while True:
 
     channel_collection.update_one({"_id": channel["_id"]},{ '$set': {
         "scrapped": True,
-        "category": category[1],
-        "lastModified_scrapped": datetime.now()
+        "category": category[1]
     },
         '$currentDate': { 'lastModified': True }
     })
 
-    print(count)
-    count += 1
+    print(channel_collection.count_documents({"scrapped": False}))
+
 
 
