@@ -74,7 +74,7 @@ while True:
 
             print(count_view)
             print(count_comment)
-    time.sleep(1*60*60)
+    time.sleep(5*60)
 
 
 

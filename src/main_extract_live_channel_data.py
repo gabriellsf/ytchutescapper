@@ -59,7 +59,7 @@ while True:
                     count_view += 1    
       
             print(count_view)
-    time.sleep(1*60*60)
+    time.sleep(5*60)
 
 
 
