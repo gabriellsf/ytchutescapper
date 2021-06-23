@@ -4,6 +4,7 @@ import time
 from app import file_manager
 from pymongo import MongoClient
 import os
+from datetime import datetime
 
 client = MongoClient('mongodb://' + os.environ['MONGODB_USERNAME'] + ':' + os.environ['MONGODB_PASSWORD'] + '@' + os.environ['MONGODB_HOSTNAME'] + ':27017/' + os.environ['MONGODB_DATABASE'] + '?authSource=admin')
 db=client[os.environ['MONGODB_DATABASE']]
@@ -51,7 +52,9 @@ while True:
             channel_collection.update_one({"_id": channel["_id"]},{ '$set': {
                 "scrapped": True,
                 "failed": True,
-                "request_status_code": channel_request.status_code
+                "request_status_code": channel_request.status_code,
+                "scrapped_datetime": datetime.now()
+
             }})
             continue
 
@@ -63,7 +66,9 @@ while True:
 
         channel_collection.update_one({"_id": channel["_id"]},{ '$set': {
             "scrapped": True,
-            "category": category[1]
+            "category": category[1],
+            "scrapped_datetime": datetime.now()
+
         },
             '$currentDate': { 'lastModified': True }
         })

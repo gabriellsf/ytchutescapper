@@ -2,6 +2,7 @@ import requests
 import re
 import os
 import time
+from datetime import datetime
 from app import file_manager
 from pymongo import MongoClient
 from pymongo import errors as mongo_exception
@@ -50,7 +51,8 @@ while True:
             video_collection.update_one({"_id": video["_id"]},{ '$set': {
                 "scrapped": True,
                 "failed": True,
-                "request_status_code": video_request.status_code
+                "request_status_code": video_request.status_code,
+                "scrapped_datetime": datetime.now()
             }})
             continue
 
@@ -78,7 +80,8 @@ while True:
         video_collection.update_one({"_id": video["_id"]},{ '$set': {
             "scrapped": True,
             "category": category[1],
-            "related_videos": all_matches
+            "related_videos": all_matches,
+            "scrapped_datetime": datetime.now()
         },
             '$currentDate': { 'lastModified': True }
         })

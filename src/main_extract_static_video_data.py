@@ -55,7 +55,6 @@ for c in category:
 
                 
             video_collection.update_one({"_id": os.path.splitext(file)[0]},{ '$set': {
-                "static_data": True,
                 "channel": channel_matches[0],
                 "title": title_matches[0],
                 "youtube_channel_id": list(set(youtube_channel_id_matches)),

@@ -42,7 +42,7 @@ while True:
     count_comment = 0
     for video in video_collection.find(query):
         print(video['_id'])
-        if video.get('lastModified_live_data', datetime.now() + timedelta(days=-10)) < datetime.now() + timedelta(days=-3) :
+        if video.get('lastModified_live_data', datetime.now() + timedelta(days=-100)) < datetime.now() + timedelta(days=-10) :
             request_headers['referer'] = 'https://www.bitchute.com/video/' + video['_id'] + '/'
 
             request_count_video = requests.post('https://www.bitchute.com/video/' + video['_id'] + '/counts/', request_payload, headers=request_headers, cookies=request_cookies)
@@ -58,7 +58,7 @@ while True:
                     }})
                     count_view += 1    
         
-        if video.get('lastModified_live_data_comment', datetime.now() + timedelta(days=-10)) < datetime.now() + timedelta(days=-1) :
+        if video.get('lastModified_live_data_comment', datetime.now() + timedelta(days=-10)) < datetime.now() + timedelta(days=-10) :
             request_headers['referer'] = 'https://www.bitchute.com/'
             request_comment_payload['cf_thread'] = "bc_" + video['_id']
             request_count_comment_video = requests.post('https://commentfreely.bitchute.com/api/get_comment_count/', request_comment_payload, headers=request_headers, cookies=request_cookies)

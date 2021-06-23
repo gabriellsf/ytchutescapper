@@ -69,7 +69,6 @@ for c in category:
             youtube_video_id_matches = re.findall(youtube_video_id_pattern,text) 
 
             channel_collection.update_one({"_id": os.path.splitext(file)[0]},{ '$set': {
-                "static_data": True,
                 "name" : name_match[0],
                 "owner" : owner_match[0],
                 "code" : code_match[0],

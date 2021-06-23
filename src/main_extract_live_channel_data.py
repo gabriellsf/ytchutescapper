@@ -43,7 +43,7 @@ while True:
     count_comment = 0
     for channel in channel_collection.find(query):
         print(channel['_id'])
-        if channel.get('lastModified_live_data', datetime.now() + timedelta(days=-10)) < datetime.now() + timedelta(days=-3) :
+        if channel.get('lastModified_live_data', datetime.now() + timedelta(days=-100)) < datetime.now() + timedelta(days=-10) :
             request_headers['referer'] = 'https://www.bitchute.com/channel/' + channel['_id'] + '/'
 
             request_count_channel = requests.post('https://www.bitchute.com/channel/' + channel['code'] + '/counts/', request_payload, headers=request_headers, cookies=request_cookies)
